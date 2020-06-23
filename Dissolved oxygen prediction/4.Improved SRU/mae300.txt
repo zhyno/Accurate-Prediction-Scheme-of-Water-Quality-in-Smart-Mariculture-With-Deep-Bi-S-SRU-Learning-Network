@@ -1,0 +1,64 @@
+Reloaded modules: Improved_sruM
+isru train start:
+0 1.0418156
+save the isru model into model/maestock.model
+10 0.13583393
+save the isru model into model/maestock.model
+20 0.110933155
+save the isru model into model/maestock.model
+30 0.1023804
+save the isru model into model/maestock.model
+40 0.09664132
+save the isru model into model/maestock.model
+50 0.0913797
+save the isru model into model/maestock.model
+60 0.08678924
+save the isru model into model/maestock.model
+70 0.08261222
+save the isru model into model/maestock.model
+80 0.0789045
+save the isru model into model/maestock.model
+90 0.075739264
+save the isru model into model/maestock.model
+100 0.07300535
+save the isru model into model/maestock.model
+110 0.07067
+save the isru model into model/maestock.model
+120 0.06848884
+save the isru model into model/maestock.model
+130 0.066179596
+save the isru model into model/maestock.model
+140 0.063893035
+save the isru model into model/maestock.model
+150 0.061871115
+save the isru model into model/maestock.model
+160 0.060067367
+save the isru model into model/maestock.model
+170 0.05841268
+save the isru model into model/maestock.model
+180 0.05709792
+save the isru model into model/maestock.model
+190 0.056119505
+save the isru model into model/maestock.model
+200 0.055343196
+save the isru model into model/maestock.model
+210 0.05458725
+save the isru model into model/maestock.model
+220 0.053814456
+save the isru model into model/maestock.model
+230 0.053151846
+save the isru model into model/maestock.model
+240 0.052702125
+save the isru model into model/maestock.model
+250 0.052249532
+save the isru model into model/maestock.model
+260 0.051773775
+save the isru model into model/maestock.model
+270 0.05138023
+save the isru model into model/maestock.model
+280 0.05101205
+save the isru model into model/maestock.model
+290 0.05070946
+save the isru model into model/maestock.model
+Running time:5547.027472299997 Seconds
+INFO:tensorflow:Restoring parameters from model/maestock.model

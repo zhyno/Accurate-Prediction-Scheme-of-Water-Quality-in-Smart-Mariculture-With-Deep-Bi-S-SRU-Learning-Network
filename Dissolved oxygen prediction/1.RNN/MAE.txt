@@ -1,0 +1,203 @@
+0 1.1506892
+save the rnn model into model/maestock.model
+10 0.33178318
+save the rnn model into model/maestock.model
+20 0.26749375
+save the rnn model into model/maestock.model
+30 0.22647415
+save the rnn model into model/maestock.model
+40 0.20009246
+save the rnn model into model/maestock.model
+50 0.18813531
+save the rnn model into model/maestock.model
+60 0.18022752
+save the rnn model into model/maestock.model
+70 0.17263688
+save the rnn model into model/maestock.model
+80 0.16403432
+save the rnn model into model/maestock.model
+90 0.15530246
+save the rnn model into model/maestock.model
+100 0.1482316
+save the rnn model into model/maestock.model
+110 0.14209323
+save the rnn model into model/maestock.model
+120 0.13666078
+save the rnn model into model/maestock.model
+130 0.13300714
+save the rnn model into model/maestock.model
+140 0.13005559
+save the rnn model into model/maestock.model
+150 0.12678042
+save the rnn model into model/maestock.model
+160 0.12451922
+save the rnn model into model/maestock.model
+170 0.122447304
+save the rnn model into model/maestock.model
+180 0.121351
+save the rnn model into model/maestock.model
+190 0.12040088
+save the rnn model into model/maestock.model
+200 0.119729154
+save the rnn model into model/maestock.model
+210 0.11911479
+save the rnn model into model/maestock.model
+220 0.11851759
+save the rnn model into model/maestock.model
+230 0.118034415
+save the rnn model into model/maestock.model
+240 0.11769951
+save the rnn model into model/maestock.model
+250 0.117327005
+save the rnn model into model/maestock.model
+260 0.117009416
+save the rnn model into model/maestock.model
+270 0.11666625
+save the rnn model into model/maestock.model
+280 0.11621326
+save the rnn model into model/maestock.model
+290 0.11586609
+save the rnn model into model/maestock.model
+300 0.11552141
+save the rnn model into model/maestock.model
+310 0.11516654
+save the rnn model into model/maestock.model
+320 0.11491006
+save the rnn model into model/maestock.model
+330 0.1146514
+save the rnn model into model/maestock.model
+340 0.11434137
+save the rnn model into model/maestock.model
+350 0.11414285
+save the rnn model into model/maestock.model
+360 0.113922715
+save the rnn model into model/maestock.model
+370 0.113692
+save the rnn model into model/maestock.model
+380 0.11342403
+save the rnn model into model/maestock.model
+390 0.113223486
+save the rnn model into model/maestock.model
+400 0.11289734
+save the rnn model into model/maestock.model
+410 0.11259831
+save the rnn model into model/maestock.model
+420 0.11235257
+save the rnn model into model/maestock.model
+430 0.112090394
+save the rnn model into model/maestock.model
+440 0.111886814
+save the rnn model into model/maestock.model
+450 0.11165002
+save the rnn model into model/maestock.model
+460 0.111440636
+save the rnn model into model/maestock.model
+470 0.111196786
+save the rnn model into model/maestock.model
+480 0.1109618
+save the rnn model into model/maestock.model
+490 0.11073501
+save the rnn model into model/maestock.model
+500 0.11047722
+save the rnn model into model/maestock.model
+510 0.11024842
+save the rnn model into model/maestock.model
+520 0.110049695
+save the rnn model into model/maestock.model
+530 0.10985317
+save the rnn model into model/maestock.model
+540 0.109634414
+save the rnn model into model/maestock.model
+550 0.109461695
+save the rnn model into model/maestock.model
+560 0.109353356
+save the rnn model into model/maestock.model
+570 0.109307006
+save the rnn model into model/maestock.model
+580 0.1091965
+save the rnn model into model/maestock.model
+590 0.10903731
+save the rnn model into model/maestock.model
+600 0.10890086
+save the rnn model into model/maestock.model
+610 0.108705774
+save the rnn model into model/maestock.model
+620 0.1084738
+save the rnn model into model/maestock.model
+630 0.10820483
+save the rnn model into model/maestock.model
+640 0.107919544
+save the rnn model into model/maestock.model
+650 0.10764295
+save the rnn model into model/maestock.model
+660 0.107411854
+save the rnn model into model/maestock.model
+670 0.1071714
+save the rnn model into model/maestock.model
+680 0.106970936
+save the rnn model into model/maestock.model
+690 0.10674909
+save the rnn model into model/maestock.model
+700 0.10651868
+save the rnn model into model/maestock.model
+710 0.106280215
+save the rnn model into model/maestock.model
+720 0.1060383
+save the rnn model into model/maestock.model
+730 0.10594403
+save the rnn model into model/maestock.model
+740 0.10573579
+save the rnn model into model/maestock.model
+750 0.10550443
+save the rnn model into model/maestock.model
+760 0.10523358
+save the rnn model into model/maestock.model
+770 0.105003685
+save the rnn model into model/maestock.model
+780 0.10480941
+save the rnn model into model/maestock.model
+790 0.1045908
+save the rnn model into model/maestock.model
+800 0.10438254
+save the rnn model into model/maestock.model
+810 0.10415214
+save the rnn model into model/maestock.model
+820 0.10394436
+save the rnn model into model/maestock.model
+830 0.1037213
+save the rnn model into model/maestock.model
+840 0.103409655
+save the rnn model into model/maestock.model
+850 0.103122726
+save the rnn model into model/maestock.model
+860 0.10288374
+save the rnn model into model/maestock.model
+870 0.10270719
+save the rnn model into model/maestock.model
+880 0.102554105
+save the rnn model into model/maestock.model
+890 0.10242386
+save the rnn model into model/maestock.model
+900 0.10225574
+save the rnn model into model/maestock.model
+910 0.10209512
+save the rnn model into model/maestock.model
+920 0.1019246
+save the rnn model into model/maestock.model
+930 0.10174733
+save the rnn model into model/maestock.model
+940 0.10153385
+save the rnn model into model/maestock.model
+950 0.101348884
+save the rnn model into model/maestock.model
+960 0.101162665
+save the rnn model into model/maestock.model
+970 0.10096168
+save the rnn model into model/maestock.model
+980 0.10074652
+save the rnn model into model/maestock.model
+990 0.10057068
+save the rnn model into model/maestock.model
+Running time:5229.028223400001 Seconds
+0.0009975433349609375
+INFO:tensorflow:Restoring parameters from model/maestock.model

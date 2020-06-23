@@ -1,0 +1,65 @@
+training/Dissolved oxygen prediction/1.RNN')
+rnn train start:
+0 1.2788562
+save the rnn model into model/maestock.model
+10 0.41294846
+save the rnn model into model/maestock.model
+20 0.24828677
+save the rnn model into model/maestock.model
+30 0.1901656
+save the rnn model into model/maestock.model
+40 0.17682244
+save the rnn model into model/maestock.model
+50 0.17086847
+save the rnn model into model/maestock.model
+60 0.16466156
+save the rnn model into model/maestock.model
+70 0.1584782
+save the rnn model into model/maestock.model
+80 0.15373182
+save the rnn model into model/maestock.model
+90 0.15006019
+save the rnn model into model/maestock.model
+100 0.14622493
+save the rnn model into model/maestock.model
+110 0.14327626
+save the rnn model into model/maestock.model
+120 0.14089361
+save the rnn model into model/maestock.model
+130 0.1393994
+save the rnn model into model/maestock.model
+140 0.13811882
+save the rnn model into model/maestock.model
+150 0.1370485
+save the rnn model into model/maestock.model
+160 0.13608727
+save the rnn model into model/maestock.model
+170 0.1351442
+save the rnn model into model/maestock.model
+180 0.13428673
+save the rnn model into model/maestock.model
+190 0.13349217
+save the rnn model into model/maestock.model
+200 0.13257958
+save the rnn model into model/maestock.model
+210 0.13174495
+save the rnn model into model/maestock.model
+220 0.13070624
+save the rnn model into model/maestock.model
+230 0.12965597
+save the rnn model into model/maestock.model
+240 0.12870602
+save the rnn model into model/maestock.model
+250 0.12770747
+save the rnn model into model/maestock.model
+260 0.12661459
+save the rnn model into model/maestock.model
+270 0.12571388
+save the rnn model into model/maestock.model
+280 0.12478895
+save the rnn model into model/maestock.model
+290 0.12387127
+save the rnn model into model/maestock.model
+Running time:1620.5408367999999 Seconds
+0.0
+INFO:tensorflow:Restoring parameters from model/maestock.model

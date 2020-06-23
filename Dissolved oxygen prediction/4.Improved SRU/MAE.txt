@@ -1,0 +1,203 @@
+isru train start:
+0 0.8157412
+save the isru model into model/maestock.model
+10 0.13027143
+save the isru model into model/maestock.model
+20 0.10396592
+save the isru model into model/maestock.model
+30 0.089720994
+save the isru model into model/maestock.model
+40 0.07919426
+save the isru model into model/maestock.model
+50 0.07247441
+save the isru model into model/maestock.model
+60 0.06854078
+save the isru model into model/maestock.model
+70 0.06615374
+save the isru model into model/maestock.model
+80 0.06424726
+save the isru model into model/maestock.model
+90 0.062481664
+save the isru model into model/maestock.model
+100 0.06062305
+save the isru model into model/maestock.model
+110 0.05875789
+save the isru model into model/maestock.model
+120 0.056590375
+save the isru model into model/maestock.model
+130 0.054578476
+save the isru model into model/maestock.model
+140 0.053031173
+save the isru model into model/maestock.model
+150 0.05209832
+save the isru model into model/maestock.model
+160 0.05135299
+save the isru model into model/maestock.model
+170 0.05077428
+save the isru model into model/maestock.model
+180 0.05033454
+save the isru model into model/maestock.model
+190 0.049943972
+save the isru model into model/maestock.model
+200 0.049590513
+save the isru model into model/maestock.model
+210 0.049289443
+save the isru model into model/maestock.model
+220 0.049004447
+save the isru model into model/maestock.model
+230 0.048783
+save the isru model into model/maestock.model
+240 0.04857526
+save the isru model into model/maestock.model
+250 0.048411667
+save the isru model into model/maestock.model
+260 0.048263412
+save the isru model into model/maestock.model
+270 0.04812989
+save the isru model into model/maestock.model
+280 0.048016835
+save the isru model into model/maestock.model
+290 0.047920194
+save the isru model into model/maestock.model
+300 0.047817517
+save the isru model into model/maestock.model
+310 0.04772109
+save the isru model into model/maestock.model
+320 0.047657117
+save the isru model into model/maestock.model
+330 0.04758363
+save the isru model into model/maestock.model
+340 0.047519173
+save the isru model into model/maestock.model
+350 0.047456995
+save the isru model into model/maestock.model
+360 0.047399737
+save the isru model into model/maestock.model
+370 0.047327105
+save the isru model into model/maestock.model
+380 0.04729623
+save the isru model into model/maestock.model
+390 0.047274247
+save the isru model into model/maestock.model
+400 0.047211062
+save the isru model into model/maestock.model
+410 0.047160894
+save the isru model into model/maestock.model
+420 0.04711017
+save the isru model into model/maestock.model
+430 0.04705887
+save the isru model into model/maestock.model
+440 0.046987884
+save the isru model into model/maestock.model
+450 0.046959113
+save the isru model into model/maestock.model
+460 0.046928097
+save the isru model into model/maestock.model
+470 0.0468738
+save the isru model into model/maestock.model
+480 0.046830077
+save the isru model into model/maestock.model
+490 0.046817277
+save the isru model into model/maestock.model
+500 0.04674146
+save the isru model into model/maestock.model
+510 0.046712454
+save the isru model into model/maestock.model
+520 0.04667042
+save the isru model into model/maestock.model
+530 0.04661676
+save the isru model into model/maestock.model
+540 0.046537913
+save the isru model into model/maestock.model
+550 0.046487153
+save the isru model into model/maestock.model
+560 0.046388395
+save the isru model into model/maestock.model
+570 0.04630323
+save the isru model into model/maestock.model
+580 0.046206027
+save the isru model into model/maestock.model
+590 0.046138313
+save the isru model into model/maestock.model
+600 0.04607446
+save the isru model into model/maestock.model
+610 0.045995694
+save the isru model into model/maestock.model
+620 0.045883488
+save the isru model into model/maestock.model
+630 0.045803055
+save the isru model into model/maestock.model
+640 0.045714945
+save the isru model into model/maestock.model
+650 0.04562137
+save the isru model into model/maestock.model
+660 0.045541443
+save the isru model into model/maestock.model
+670 0.04543506
+save the isru model into model/maestock.model
+680 0.04531133
+save the isru model into model/maestock.model
+690 0.04520014
+save the isru model into model/maestock.model
+700 0.045093063
+save the isru model into model/maestock.model
+710 0.044965725
+save the isru model into model/maestock.model
+720 0.044858687
+save the isru model into model/maestock.model
+730 0.044775337
+save the isru model into model/maestock.model
+740 0.0447174
+save the isru model into model/maestock.model
+750 0.044644475
+save the isru model into model/maestock.model
+760 0.04455578
+save the isru model into model/maestock.model
+770 0.044471078
+save the isru model into model/maestock.model
+780 0.044380903
+save the isru model into model/maestock.model
+790 0.04429226
+save the isru model into model/maestock.model
+800 0.044216193
+save the isru model into model/maestock.model
+810 0.04412945
+save the isru model into model/maestock.model
+820 0.044034556
+save the isru model into model/maestock.model
+830 0.04395963
+save the isru model into model/maestock.model
+840 0.043874815
+save the isru model into model/maestock.model
+850 0.043784644
+save the isru model into model/maestock.model
+860 0.043712147
+save the isru model into model/maestock.model
+870 0.043639515
+save the isru model into model/maestock.model
+880 0.04355217
+save the isru model into model/maestock.model
+890 0.04348008
+save the isru model into model/maestock.model
+900 0.0434073
+save the isru model into model/maestock.model
+910 0.043317676
+save the isru model into model/maestock.model
+920 0.04327769
+save the isru model into model/maestock.model
+930 0.04317605
+save the isru model into model/maestock.model
+940 0.043106947
+save the isru model into model/maestock.model
+950 0.043027304
+save the isru model into model/maestock.model
+960 0.04293161
+save the isru model into model/maestock.model
+970 0.04287056
+save the isru model into model/maestock.model
+980 0.042796664
+save the isru model into model/maestock.model
+990 0.04272459
+save the isru model into model/maestock.model
+Running time:20281.8270105 Seconds
+INFO:tensorflow:Restoring parameters from model/maestock.model

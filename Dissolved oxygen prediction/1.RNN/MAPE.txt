@@ -1,0 +1,204 @@
+rnn train start:
+0 1.0892618
+save the rnn model into model/mapestock.model
+10 0.28944504
+save the rnn model into model/mapestock.model
+20 0.25757787
+save the rnn model into model/mapestock.model
+30 0.24607784
+save the rnn model into model/mapestock.model
+40 0.2321651
+save the rnn model into model/mapestock.model
+50 0.2140405
+save the rnn model into model/mapestock.model
+60 0.19591789
+save the rnn model into model/mapestock.model
+70 0.17632695
+save the rnn model into model/mapestock.model
+80 0.1597984
+save the rnn model into model/mapestock.model
+90 0.14951678
+save the rnn model into model/mapestock.model
+100 0.14445284
+save the rnn model into model/mapestock.model
+110 0.14302306
+save the rnn model into model/mapestock.model
+120 0.14264385
+save the rnn model into model/mapestock.model
+130 0.14239202
+save the rnn model into model/mapestock.model
+140 0.14207064
+save the rnn model into model/mapestock.model
+150 0.14162374
+save the rnn model into model/mapestock.model
+160 0.1410578
+save the rnn model into model/mapestock.model
+170 0.14050004
+save the rnn model into model/mapestock.model
+180 0.13993356
+save the rnn model into model/mapestock.model
+190 0.13938595
+save the rnn model into model/mapestock.model
+200 0.13873725
+save the rnn model into model/mapestock.model
+210 0.13801976
+save the rnn model into model/mapestock.model
+220 0.13722183
+save the rnn model into model/mapestock.model
+230 0.13646719
+save the rnn model into model/mapestock.model
+240 0.13563761
+save the rnn model into model/mapestock.model
+250 0.13479748
+save the rnn model into model/mapestock.model
+260 0.13384485
+save the rnn model into model/mapestock.model
+270 0.1329306
+save the rnn model into model/mapestock.model
+280 0.13201888
+save the rnn model into model/mapestock.model
+290 0.1311226
+save the rnn model into model/mapestock.model
+300 0.13018493
+save the rnn model into model/mapestock.model
+310 0.1291556
+save the rnn model into model/mapestock.model
+320 0.12822929
+save the rnn model into model/mapestock.model
+330 0.12735
+save the rnn model into model/mapestock.model
+340 0.12640856
+save the rnn model into model/mapestock.model
+350 0.1257869
+save the rnn model into model/mapestock.model
+360 0.12532751
+save the rnn model into model/mapestock.model
+370 0.12489432
+save the rnn model into model/mapestock.model
+380 0.124562316
+save the rnn model into model/mapestock.model
+390 0.12425471
+save the rnn model into model/mapestock.model
+400 0.123994574
+save the rnn model into model/mapestock.model
+410 0.12374795
+save the rnn model into model/mapestock.model
+420 0.1236189
+save the rnn model into model/mapestock.model
+430 0.123507805
+save the rnn model into model/mapestock.model
+440 0.123377204
+save the rnn model into model/mapestock.model
+450 0.123270184
+save the rnn model into model/mapestock.model
+460 0.12316511
+save the rnn model into model/mapestock.model
+470 0.12301121
+save the rnn model into model/mapestock.model
+480 0.122857384
+save the rnn model into model/mapestock.model
+490 0.12278211
+save the rnn model into model/mapestock.model
+500 0.122650295
+save the rnn model into model/mapestock.model
+510 0.122461736
+save the rnn model into model/mapestock.model
+520 0.12234745
+save the rnn model into model/mapestock.model
+530 0.122227885
+save the rnn model into model/mapestock.model
+540 0.122131474
+save the rnn model into model/mapestock.model
+550 0.121987484
+save the rnn model into model/mapestock.model
+560 0.1218826
+save the rnn model into model/mapestock.model
+570 0.12188294
+save the rnn model into model/mapestock.model
+580 0.121824786
+save the rnn model into model/mapestock.model
+590 0.12171839
+save the rnn model into model/mapestock.model
+600 0.12166077
+save the rnn model into model/mapestock.model
+610 0.121632285
+save the rnn model into model/mapestock.model
+620 0.12156728
+save the rnn model into model/mapestock.model
+630 0.12147043
+save the rnn model into model/mapestock.model
+640 0.121319965
+save the rnn model into model/mapestock.model
+650 0.12124344
+save the rnn model into model/mapestock.model
+660 0.12119711
+save the rnn model into model/mapestock.model
+670 0.12117805
+save the rnn model into model/mapestock.model
+680 0.121161826
+save the rnn model into model/mapestock.model
+690 0.12110114
+save the rnn model into model/mapestock.model
+700 0.12107993
+save the rnn model into model/mapestock.model
+710 0.121054456
+save the rnn model into model/mapestock.model
+720 0.121035755
+save the rnn model into model/mapestock.model
+730 0.12098685
+save the rnn model into model/mapestock.model
+740 0.1210144
+save the rnn model into model/mapestock.model
+750 0.12099421
+save the rnn model into model/mapestock.model
+760 0.12097461
+save the rnn model into model/mapestock.model
+770 0.121084176
+save the rnn model into model/mapestock.model
+780 0.121155284
+save the rnn model into model/mapestock.model
+790 0.12112189
+save the rnn model into model/mapestock.model
+800 0.12109886
+save the rnn model into model/mapestock.model
+810 0.1210748
+save the rnn model into model/mapestock.model
+820 0.12105998
+save the rnn model into model/mapestock.model
+830 0.12100525
+save the rnn model into model/mapestock.model
+840 0.120945066
+save the rnn model into model/mapestock.model
+850 0.12083028
+save the rnn model into model/mapestock.model
+860 0.120741956
+save the rnn model into model/mapestock.model
+870 0.1206787
+save the rnn model into model/mapestock.model
+880 0.120654896
+save the rnn model into model/mapestock.model
+890 0.120618366
+save the rnn model into model/mapestock.model
+900 0.120574325
+save the rnn model into model/mapestock.model
+910 0.12057564
+save the rnn model into model/mapestock.model
+920 0.120558165
+save the rnn model into model/mapestock.model
+930 0.12056731
+save the rnn model into model/mapestock.model
+940 0.12060425
+save the rnn model into model/mapestock.model
+950 0.120640844
+save the rnn model into model/mapestock.model
+960 0.12064464
+save the rnn model into model/mapestock.model
+970 0.120654665
+save the rnn model into model/mapestock.model
+980 0.1206565
+save the rnn model into model/mapestock.model
+990 0.120671995
+save the rnn model into model/mapestock.model
+Running time:5744.6611099 Seconds
+0.0
+INFO:tensorflow:Restoring parameters from model/mapestock.model

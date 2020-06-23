@@ -1,0 +1,202 @@
+rnn train start:
+0 1.1450734
+save the rnn model into model/rmsestock.model
+10 0.1729609
+save the rnn model into model/rmsestock.model
+20 0.09195329
+save the rnn model into model/rmsestock.model
+30 0.06537042
+save the rnn model into model/rmsestock.model
+40 0.05030923
+save the rnn model into model/rmsestock.model
+50 0.038784165
+save the rnn model into model/rmsestock.model
+60 0.029552288
+save the rnn model into model/rmsestock.model
+70 0.02294279
+save the rnn model into model/rmsestock.model
+80 0.01896883
+save the rnn model into model/rmsestock.model
+90 0.01684805
+save the rnn model into model/rmsestock.model
+100 0.015693676
+save the rnn model into model/rmsestock.model
+110 0.014936083
+save the rnn model into model/rmsestock.model
+120 0.014322265
+save the rnn model into model/rmsestock.model
+130 0.013780675
+save the rnn model into model/rmsestock.model
+140 0.013303736
+save the rnn model into model/rmsestock.model
+150 0.012893427
+save the rnn model into model/rmsestock.model
+160 0.012562919
+save the rnn model into model/rmsestock.model
+170 0.012310809
+save the rnn model into model/rmsestock.model
+180 0.012120922
+save the rnn model into model/rmsestock.model
+190 0.011976249
+save the rnn model into model/rmsestock.model
+200 0.0118636275
+save the rnn model into model/rmsestock.model
+210 0.011772884
+save the rnn model into model/rmsestock.model
+220 0.011698135
+save the rnn model into model/rmsestock.model
+230 0.011635038
+save the rnn model into model/rmsestock.model
+240 0.01158068
+save the rnn model into model/rmsestock.model
+250 0.011533215
+save the rnn model into model/rmsestock.model
+260 0.011491117
+save the rnn model into model/rmsestock.model
+270 0.011453575
+save the rnn model into model/rmsestock.model
+280 0.011419803
+save the rnn model into model/rmsestock.model
+290 0.011389574
+save the rnn model into model/rmsestock.model
+300 0.011362028
+save the rnn model into model/rmsestock.model
+310 0.011337316
+save the rnn model into model/rmsestock.model
+320 0.011314498
+save the rnn model into model/rmsestock.model
+330 0.011294041
+save the rnn model into model/rmsestock.model
+340 0.011275224
+save the rnn model into model/rmsestock.model
+350 0.011258482
+save the rnn model into model/rmsestock.model
+360 0.011242741
+save the rnn model into model/rmsestock.model
+370 0.011228692
+save the rnn model into model/rmsestock.model
+380 0.0112159
+save the rnn model into model/rmsestock.model
+390 0.011204112
+save the rnn model into model/rmsestock.model
+400 0.011193793
+save the rnn model into model/rmsestock.model
+410 0.011184272
+save the rnn model into model/rmsestock.model
+420 0.011175783
+save the rnn model into model/rmsestock.model
+430 0.011168093
+save the rnn model into model/rmsestock.model
+440 0.011161208
+save the rnn model into model/rmsestock.model
+450 0.011155218
+save the rnn model into model/rmsestock.model
+460 0.011149805
+save the rnn model into model/rmsestock.model
+470 0.011144985
+save the rnn model into model/rmsestock.model
+480 0.011140873
+save the rnn model into model/rmsestock.model
+490 0.011137352
+save the rnn model into model/rmsestock.model
+500 0.011134383
+save the rnn model into model/rmsestock.model
+510 0.011131613
+save the rnn model into model/rmsestock.model
+520 0.011129588
+save the rnn model into model/rmsestock.model
+530 0.01112787
+save the rnn model into model/rmsestock.model
+540 0.011126448
+save the rnn model into model/rmsestock.model
+550 0.011125475
+save the rnn model into model/rmsestock.model
+560 0.011124748
+save the rnn model into model/rmsestock.model
+570 0.01112428
+save the rnn model into model/rmsestock.model
+580 0.011124213
+save the rnn model into model/rmsestock.model
+590 0.011124357
+save the rnn model into model/rmsestock.model
+600 0.011124673
+save the rnn model into model/rmsestock.model
+610 0.011125097
+save the rnn model into model/rmsestock.model
+620 0.011125753
+save the rnn model into model/rmsestock.model
+630 0.01112664
+save the rnn model into model/rmsestock.model
+640 0.011127643
+save the rnn model into model/rmsestock.model
+650 0.011128734
+save the rnn model into model/rmsestock.model
+660 0.011129925
+save the rnn model into model/rmsestock.model
+670 0.011131319
+save the rnn model into model/rmsestock.model
+680 0.011132866
+save the rnn model into model/rmsestock.model
+690 0.011134417
+save the rnn model into model/rmsestock.model
+700 0.011135977
+save the rnn model into model/rmsestock.model
+710 0.011137542
+save the rnn model into model/rmsestock.model
+720 0.011139229
+save the rnn model into model/rmsestock.model
+730 0.011140935
+save the rnn model into model/rmsestock.model
+740 0.011142684
+save the rnn model into model/rmsestock.model
+750 0.011144471
+save the rnn model into model/rmsestock.model
+760 0.011146228
+save the rnn model into model/rmsestock.model
+770 0.011147906
+save the rnn model into model/rmsestock.model
+780 0.011149586
+save the rnn model into model/rmsestock.model
+790 0.011151442
+save the rnn model into model/rmsestock.model
+800 0.011153192
+save the rnn model into model/rmsestock.model
+810 0.01115493
+save the rnn model into model/rmsestock.model
+820 0.01115667
+save the rnn model into model/rmsestock.model
+830 0.011158525
+save the rnn model into model/rmsestock.model
+840 0.011160108
+save the rnn model into model/rmsestock.model
+850 0.011161852
+save the rnn model into model/rmsestock.model
+860 0.0111633465
+save the rnn model into model/rmsestock.model
+870 0.011164956
+save the rnn model into model/rmsestock.model
+880 0.01116631
+save the rnn model into model/rmsestock.model
+890 0.01116788
+save the rnn model into model/rmsestock.model
+900 0.011169353
+save the rnn model into model/rmsestock.model
+910 0.011170634
+save the rnn model into model/rmsestock.model
+920 0.011172021
+save the rnn model into model/rmsestock.model
+930 0.011173261
+save the rnn model into model/rmsestock.model
+940 0.011174476
+save the rnn model into model/rmsestock.model
+950 0.011175637
+save the rnn model into model/rmsestock.model
+960 0.011176943
+save the rnn model into model/rmsestock.model
+970 0.011178003
+save the rnn model into model/rmsestock.model
+980 0.011179006
+save the rnn model into model/rmsestock.model
+990 0.011179829
+save the rnn model into model/rmsestock.model
+Running time:5209.1002281 Seconds

@@ -1,0 +1,64 @@
+Reloaded modules: sruM
+sru train start:
+0 1.2811545
+save the sru model into model/rmsestock.model
+10 0.100234784
+save the sru model into model/rmsestock.model
+20 0.042748664
+save the sru model into model/rmsestock.model
+30 0.033991367
+save the sru model into model/rmsestock.model
+40 0.030546062
+save the sru model into model/rmsestock.model
+50 0.028695336
+save the sru model into model/rmsestock.model
+60 0.027494134
+save the sru model into model/rmsestock.model
+70 0.026578179
+save the sru model into model/rmsestock.model
+80 0.025804168
+save the sru model into model/rmsestock.model
+90 0.025054784
+save the sru model into model/rmsestock.model
+100 0.024225656
+save the sru model into model/rmsestock.model
+110 0.023266833
+save the sru model into model/rmsestock.model
+120 0.022242758
+save the sru model into model/rmsestock.model
+130 0.021296667
+save the sru model into model/rmsestock.model
+140 0.020512355
+save the sru model into model/rmsestock.model
+150 0.019863497
+save the sru model into model/rmsestock.model
+160 0.019273348
+save the sru model into model/rmsestock.model
+170 0.018678226
+save the sru model into model/rmsestock.model
+180 0.018058132
+save the sru model into model/rmsestock.model
+190 0.017448474
+save the sru model into model/rmsestock.model
+200 0.016920283
+save the sru model into model/rmsestock.model
+210 0.016532997
+save the sru model into model/rmsestock.model
+220 0.016297081
+save the sru model into model/rmsestock.model
+230 0.016178356
+save the sru model into model/rmsestock.model
+240 0.016130658
+save the sru model into model/rmsestock.model
+250 0.016118752
+save the sru model into model/rmsestock.model
+260 0.016122943
+save the sru model into model/rmsestock.model
+270 0.01613379
+save the sru model into model/rmsestock.model
+280 0.016147176
+save the sru model into model/rmsestock.model
+290 0.016161442
+save the sru model into model/rmsestock.model
+Running time:2115.4026215000013 Seconds
+INFO:tensorflow:Restoring parameters from model/rmsestock.model

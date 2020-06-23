@@ -1,0 +1,203 @@
+isru train start:
+0 1.1287254
+save the isru model into model/mapestock.model
+10 0.13748866
+save the isru model into model/mapestock.model
+20 0.116878
+save the isru model into model/mapestock.model
+30 0.10047221
+save the isru model into model/mapestock.model
+40 0.09147423
+save the isru model into model/mapestock.model
+50 0.08653441
+save the isru model into model/mapestock.model
+60 0.08302064
+save the isru model into model/mapestock.model
+70 0.08030083
+save the isru model into model/mapestock.model
+80 0.078270994
+save the isru model into model/mapestock.model
+90 0.076223135
+save the isru model into model/mapestock.model
+100 0.07426634
+save the isru model into model/mapestock.model
+110 0.07230817
+save the isru model into model/mapestock.model
+120 0.070414826
+save the isru model into model/mapestock.model
+130 0.06853422
+save the isru model into model/mapestock.model
+140 0.06685733
+save the isru model into model/mapestock.model
+150 0.065214805
+save the isru model into model/mapestock.model
+160 0.06358733
+save the isru model into model/mapestock.model
+170 0.06205504
+save the isru model into model/mapestock.model
+180 0.06057321
+save the isru model into model/mapestock.model
+190 0.059216876
+save the isru model into model/mapestock.model
+200 0.058021598
+save the isru model into model/mapestock.model
+210 0.05708501
+save the isru model into model/mapestock.model
+220 0.05623724
+save the isru model into model/mapestock.model
+230 0.05542017
+save the isru model into model/mapestock.model
+240 0.054758664
+save the isru model into model/mapestock.model
+250 0.05408971
+save the isru model into model/mapestock.model
+260 0.05338707
+save the isru model into model/mapestock.model
+270 0.052797195
+save the isru model into model/mapestock.model
+280 0.052169908
+save the isru model into model/mapestock.model
+290 0.051597435
+save the isru model into model/mapestock.model
+300 0.05115857
+save the isru model into model/mapestock.model
+310 0.050889466
+save the isru model into model/mapestock.model
+320 0.05078796
+save the isru model into model/mapestock.model
+330 0.05079497
+save the isru model into model/mapestock.model
+340 0.050861057
+save the isru model into model/mapestock.model
+350 0.05091409
+save the isru model into model/mapestock.model
+360 0.051005088
+save the isru model into model/mapestock.model
+370 0.051121965
+save the isru model into model/mapestock.model
+380 0.051227275
+save the isru model into model/mapestock.model
+390 0.05133669
+save the isru model into model/mapestock.model
+400 0.05149266
+save the isru model into model/mapestock.model
+410 0.05155093
+save the isru model into model/mapestock.model
+420 0.05162417
+save the isru model into model/mapestock.model
+430 0.051713955
+save the isru model into model/mapestock.model
+440 0.051787913
+save the isru model into model/mapestock.model
+450 0.051823016
+save the isru model into model/mapestock.model
+460 0.05186536
+save the isru model into model/mapestock.model
+470 0.05187051
+save the isru model into model/mapestock.model
+480 0.051834147
+save the isru model into model/mapestock.model
+490 0.05180728
+save the isru model into model/mapestock.model
+500 0.051751863
+save the isru model into model/mapestock.model
+510 0.05169428
+save the isru model into model/mapestock.model
+520 0.051647354
+save the isru model into model/mapestock.model
+530 0.051557537
+save the isru model into model/mapestock.model
+540 0.051472176
+save the isru model into model/mapestock.model
+550 0.05138266
+save the isru model into model/mapestock.model
+560 0.051272754
+save the isru model into model/mapestock.model
+570 0.051148728
+save the isru model into model/mapestock.model
+580 0.051012084
+save the isru model into model/mapestock.model
+590 0.050885007
+save the isru model into model/mapestock.model
+600 0.050741572
+save the isru model into model/mapestock.model
+610 0.050565865
+save the isru model into model/mapestock.model
+620 0.05037566
+save the isru model into model/mapestock.model
+630 0.05016664
+save the isru model into model/mapestock.model
+640 0.05001386
+save the isru model into model/mapestock.model
+650 0.04980962
+save the isru model into model/mapestock.model
+660 0.049622506
+save the isru model into model/mapestock.model
+670 0.04947998
+save the isru model into model/mapestock.model
+680 0.04937836
+save the isru model into model/mapestock.model
+690 0.04924214
+save the isru model into model/mapestock.model
+700 0.04907849
+save the isru model into model/mapestock.model
+710 0.048880454
+save the isru model into model/mapestock.model
+720 0.048727278
+save the isru model into model/mapestock.model
+730 0.04860214
+save the isru model into model/mapestock.model
+740 0.048467103
+save the isru model into model/mapestock.model
+750 0.048346363
+save the isru model into model/mapestock.model
+760 0.04825814
+save the isru model into model/mapestock.model
+770 0.04811385
+save the isru model into model/mapestock.model
+780 0.0479939
+save the isru model into model/mapestock.model
+790 0.047916584
+save the isru model into model/mapestock.model
+800 0.047846645
+save the isru model into model/mapestock.model
+810 0.04777475
+save the isru model into model/mapestock.model
+820 0.04772108
+save the isru model into model/mapestock.model
+830 0.04769136
+save the isru model into model/mapestock.model
+840 0.04765441
+save the isru model into model/mapestock.model
+850 0.047645714
+save the isru model into model/mapestock.model
+860 0.04761293
+save the isru model into model/mapestock.model
+870 0.047568437
+save the isru model into model/mapestock.model
+880 0.047560096
+save the isru model into model/mapestock.model
+890 0.047547504
+save the isru model into model/mapestock.model
+900 0.04754856
+save the isru model into model/mapestock.model
+910 0.047530077
+save the isru model into model/mapestock.model
+920 0.04754805
+save the isru model into model/mapestock.model
+930 0.047538944
+save the isru model into model/mapestock.model
+940 0.047538593
+save the isru model into model/mapestock.model
+950 0.047532152
+save the isru model into model/mapestock.model
+960 0.047489233
+save the isru model into model/mapestock.model
+970 0.047483694
+save the isru model into model/mapestock.model
+980 0.04745852
+save the isru model into model/mapestock.model
+990 0.04745594
+save the isru model into model/mapestock.model
+Running time:31465.588450000003 Seconds
+INFO:tensorflow:Restoring parameters from model/mapestock.model

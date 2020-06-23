@@ -1,0 +1,64 @@
+existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+lstm train start:
+0 1.0053002
+save the lstm model into model/mapestock.model
+10 0.2718044
+save the lstm model into model/mapestock.model
+20 0.2392649
+save the lstm model into model/mapestock.model
+30 0.22142313
+save the lstm model into model/mapestock.model
+40 0.20681565
+save the lstm model into model/mapestock.model
+50 0.19432335
+save the lstm model into model/mapestock.model
+60 0.18397163
+save the lstm model into model/mapestock.model
+70 0.17536917
+save the lstm model into model/mapestock.model
+80 0.16793665
+save the lstm model into model/mapestock.model
+90 0.16143526
+save the lstm model into model/mapestock.model
+100 0.15532677
+save the lstm model into model/mapestock.model
+110 0.15002681
+save the lstm model into model/mapestock.model
+120 0.14524901
+save the lstm model into model/mapestock.model
+130 0.14028029
+save the lstm model into model/mapestock.model
+140 0.1356684
+save the lstm model into model/mapestock.model
+150 0.13197201
+save the lstm model into model/mapestock.model
+160 0.12974882
+save the lstm model into model/mapestock.model
+170 0.12815757
+save the lstm model into model/mapestock.model
+180 0.12700857
+save the lstm model into model/mapestock.model
+190 0.12603176
+save the lstm model into model/mapestock.model
+200 0.12496999
+save the lstm model into model/mapestock.model
+210 0.12410946
+save the lstm model into model/mapestock.model
+220 0.123517886
+save the lstm model into model/mapestock.model
+230 0.12309965
+save the lstm model into model/mapestock.model
+240 0.12276638
+save the lstm model into model/mapestock.model
+250 0.12247791
+save the lstm model into model/mapestock.model
+260 0.12220974
+save the lstm model into model/mapestock.model
+270 0.12197277
+save the lstm model into model/mapestock.model
+280 0.12171173
+save the lstm model into model/mapestock.model
+290 0.12143879
+save the lstm model into model/mapestock.model
+Running time:2022.9926931 Seconds
+INFO:tensorflow:Restoring parameters from model/mapestock.model

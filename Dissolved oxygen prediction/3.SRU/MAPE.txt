@@ -1,0 +1,203 @@
+sru train start:
+0 0.82000923
+save the sru model into model/mapestock.model
+10 0.20925967
+save the sru model into model/mapestock.model
+20 0.16178517
+save the sru model into model/mapestock.model
+30 0.15583049
+save the sru model into model/mapestock.model
+40 0.15337396
+save the sru model into model/mapestock.model
+50 0.15097304
+save the sru model into model/mapestock.model
+60 0.14928594
+save the sru model into model/mapestock.model
+70 0.14766052
+save the sru model into model/mapestock.model
+80 0.14601874
+save the sru model into model/mapestock.model
+90 0.14399958
+save the sru model into model/mapestock.model
+100 0.14174367
+save the sru model into model/mapestock.model
+110 0.1391021
+save the sru model into model/mapestock.model
+120 0.1366
+save the sru model into model/mapestock.model
+130 0.13424352
+save the sru model into model/mapestock.model
+140 0.13199605
+save the sru model into model/mapestock.model
+150 0.12983292
+save the sru model into model/mapestock.model
+160 0.12759438
+save the sru model into model/mapestock.model
+170 0.12541975
+save the sru model into model/mapestock.model
+180 0.123830594
+save the sru model into model/mapestock.model
+190 0.12323087
+save the sru model into model/mapestock.model
+200 0.122472525
+save the sru model into model/mapestock.model
+210 0.12175573
+save the sru model into model/mapestock.model
+220 0.121068686
+save the sru model into model/mapestock.model
+230 0.12043417
+save the sru model into model/mapestock.model
+240 0.119956
+save the sru model into model/mapestock.model
+250 0.11941741
+save the sru model into model/mapestock.model
+260 0.11892049
+save the sru model into model/mapestock.model
+270 0.118462026
+save the sru model into model/mapestock.model
+280 0.11813797
+save the sru model into model/mapestock.model
+290 0.11791318
+save the sru model into model/mapestock.model
+300 0.11771569
+save the sru model into model/mapestock.model
+310 0.11755473
+save the sru model into model/mapestock.model
+320 0.11741319
+save the sru model into model/mapestock.model
+330 0.117349446
+save the sru model into model/mapestock.model
+340 0.11725255
+save the sru model into model/mapestock.model
+350 0.11716038
+save the sru model into model/mapestock.model
+360 0.11708396
+save the sru model into model/mapestock.model
+370 0.117035024
+save the sru model into model/mapestock.model
+380 0.116963536
+save the sru model into model/mapestock.model
+390 0.116919175
+save the sru model into model/mapestock.model
+400 0.116903976
+save the sru model into model/mapestock.model
+410 0.11688376
+save the sru model into model/mapestock.model
+420 0.116842166
+save the sru model into model/mapestock.model
+430 0.11680973
+save the sru model into model/mapestock.model
+440 0.116791576
+save the sru model into model/mapestock.model
+450 0.116758116
+save the sru model into model/mapestock.model
+460 0.11672895
+save the sru model into model/mapestock.model
+470 0.11668754
+save the sru model into model/mapestock.model
+480 0.11666129
+save the sru model into model/mapestock.model
+490 0.116631314
+save the sru model into model/mapestock.model
+500 0.11659908
+save the sru model into model/mapestock.model
+510 0.116572924
+save the sru model into model/mapestock.model
+520 0.11655164
+save the sru model into model/mapestock.model
+530 0.1165489
+save the sru model into model/mapestock.model
+540 0.116532974
+save the sru model into model/mapestock.model
+550 0.1165161
+save the sru model into model/mapestock.model
+560 0.11649966
+save the sru model into model/mapestock.model
+570 0.11648304
+save the sru model into model/mapestock.model
+580 0.11645536
+save the sru model into model/mapestock.model
+590 0.11643032
+save the sru model into model/mapestock.model
+600 0.11639849
+save the sru model into model/mapestock.model
+610 0.116377
+save the sru model into model/mapestock.model
+620 0.11634492
+save the sru model into model/mapestock.model
+630 0.11630618
+save the sru model into model/mapestock.model
+640 0.11628732
+save the sru model into model/mapestock.model
+650 0.11628034
+save the sru model into model/mapestock.model
+660 0.116256915
+save the sru model into model/mapestock.model
+670 0.11623787
+save the sru model into model/mapestock.model
+680 0.116212055
+save the sru model into model/mapestock.model
+690 0.11620622
+save the sru model into model/mapestock.model
+700 0.1161962
+save the sru model into model/mapestock.model
+710 0.11618965
+save the sru model into model/mapestock.model
+720 0.11617733
+save the sru model into model/mapestock.model
+730 0.1161689
+save the sru model into model/mapestock.model
+740 0.11614377
+save the sru model into model/mapestock.model
+750 0.11613891
+save the sru model into model/mapestock.model
+760 0.11612802
+save the sru model into model/mapestock.model
+770 0.1161305
+save the sru model into model/mapestock.model
+780 0.11612435
+save the sru model into model/mapestock.model
+790 0.116132684
+save the sru model into model/mapestock.model
+800 0.11611235
+save the sru model into model/mapestock.model
+810 0.11609162
+save the sru model into model/mapestock.model
+820 0.116086975
+save the sru model into model/mapestock.model
+830 0.116082065
+save the sru model into model/mapestock.model
+840 0.116061784
+save the sru model into model/mapestock.model
+850 0.116054535
+save the sru model into model/mapestock.model
+860 0.11604441
+save the sru model into model/mapestock.model
+870 0.11602913
+save the sru model into model/mapestock.model
+880 0.116008
+save the sru model into model/mapestock.model
+890 0.115993045
+save the sru model into model/mapestock.model
+900 0.11598966
+save the sru model into model/mapestock.model
+910 0.11598526
+save the sru model into model/mapestock.model
+920 0.1159811
+save the sru model into model/mapestock.model
+930 0.115964115
+save the sru model into model/mapestock.model
+940 0.11594328
+save the sru model into model/mapestock.model
+950 0.11593473
+save the sru model into model/mapestock.model
+960 0.11592458
+save the sru model into model/mapestock.model
+970 0.11591323
+save the sru model into model/mapestock.model
+980 0.11590248
+save the sru model into model/mapestock.model
+990 0.11589329
+save the sru model into model/mapestock.model
+Running time:27984.15242 Seconds
+INFO:tensorflow:Restoring parameters from model/mapestock.model

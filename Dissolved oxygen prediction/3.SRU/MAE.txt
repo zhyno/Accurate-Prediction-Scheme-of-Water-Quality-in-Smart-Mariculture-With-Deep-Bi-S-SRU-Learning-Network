@@ -1,0 +1,203 @@
+sru train start:
+0 1.4485623
+save the sru model into model/maestock.model
+10 0.36360314
+save the sru model into model/maestock.model
+20 0.18718806
+save the sru model into model/maestock.model
+30 0.12755948
+save the sru model into model/maestock.model
+40 0.10978884
+save the sru model into model/maestock.model
+50 0.10800628
+save the sru model into model/maestock.model
+60 0.107415654
+save the sru model into model/maestock.model
+70 0.10667864
+save the sru model into model/maestock.model
+80 0.10588783
+save the sru model into model/maestock.model
+90 0.10517519
+save the sru model into model/maestock.model
+100 0.10449956
+save the sru model into model/maestock.model
+110 0.103889115
+save the sru model into model/maestock.model
+120 0.103287265
+save the sru model into model/maestock.model
+130 0.10273611
+save the sru model into model/maestock.model
+140 0.10222716
+save the sru model into model/maestock.model
+150 0.101636864
+save the sru model into model/maestock.model
+160 0.10110516
+save the sru model into model/maestock.model
+170 0.10059732
+save the sru model into model/maestock.model
+180 0.100196965
+save the sru model into model/maestock.model
+190 0.099793546
+save the sru model into model/maestock.model
+200 0.09944024
+save the sru model into model/maestock.model
+210 0.099113725
+save the sru model into model/maestock.model
+220 0.09877498
+save the sru model into model/maestock.model
+230 0.09849205
+save the sru model into model/maestock.model
+240 0.09821268
+save the sru model into model/maestock.model
+250 0.097948566
+save the sru model into model/maestock.model
+260 0.09763649
+save the sru model into model/maestock.model
+270 0.09731044
+save the sru model into model/maestock.model
+280 0.09700931
+save the sru model into model/maestock.model
+290 0.09677777
+save the sru model into model/maestock.model
+300 0.096539736
+save the sru model into model/maestock.model
+310 0.096274115
+save the sru model into model/maestock.model
+320 0.09604253
+save the sru model into model/maestock.model
+330 0.09582064
+save the sru model into model/maestock.model
+340 0.095604144
+save the sru model into model/maestock.model
+350 0.09539539
+save the sru model into model/maestock.model
+360 0.09517095
+save the sru model into model/maestock.model
+370 0.09495647
+save the sru model into model/maestock.model
+380 0.09477214
+save the sru model into model/maestock.model
+390 0.094573215
+save the sru model into model/maestock.model
+400 0.09441212
+save the sru model into model/maestock.model
+410 0.09423696
+save the sru model into model/maestock.model
+420 0.094087824
+save the sru model into model/maestock.model
+430 0.09393759
+save the sru model into model/maestock.model
+440 0.093804665
+save the sru model into model/maestock.model
+450 0.09371004
+save the sru model into model/maestock.model
+460 0.093554676
+save the sru model into model/maestock.model
+470 0.09342719
+save the sru model into model/maestock.model
+480 0.09330133
+save the sru model into model/maestock.model
+490 0.0931828
+save the sru model into model/maestock.model
+500 0.09307971
+save the sru model into model/maestock.model
+510 0.092992105
+save the sru model into model/maestock.model
+520 0.09290557
+save the sru model into model/maestock.model
+530 0.092809826
+save the sru model into model/maestock.model
+540 0.09274897
+save the sru model into model/maestock.model
+550 0.09267666
+save the sru model into model/maestock.model
+560 0.092610344
+save the sru model into model/maestock.model
+570 0.09250526
+save the sru model into model/maestock.model
+580 0.09239873
+save the sru model into model/maestock.model
+590 0.09230092
+save the sru model into model/maestock.model
+600 0.092240006
+save the sru model into model/maestock.model
+610 0.092204
+save the sru model into model/maestock.model
+620 0.09216289
+save the sru model into model/maestock.model
+630 0.092145614
+save the sru model into model/maestock.model
+640 0.092109084
+save the sru model into model/maestock.model
+650 0.0920961
+save the sru model into model/maestock.model
+660 0.09205975
+save the sru model into model/maestock.model
+670 0.09202867
+save the sru model into model/maestock.model
+680 0.09204532
+save the sru model into model/maestock.model
+690 0.09203791
+save the sru model into model/maestock.model
+700 0.09200003
+save the sru model into model/maestock.model
+710 0.0919828
+save the sru model into model/maestock.model
+720 0.09195952
+save the sru model into model/maestock.model
+730 0.091920145
+save the sru model into model/maestock.model
+740 0.09188891
+save the sru model into model/maestock.model
+750 0.091883466
+save the sru model into model/maestock.model
+760 0.09187175
+save the sru model into model/maestock.model
+770 0.09183389
+save the sru model into model/maestock.model
+780 0.091791086
+save the sru model into model/maestock.model
+790 0.09176159
+save the sru model into model/maestock.model
+800 0.0917249
+save the sru model into model/maestock.model
+810 0.091683395
+save the sru model into model/maestock.model
+820 0.091656536
+save the sru model into model/maestock.model
+830 0.09162516
+save the sru model into model/maestock.model
+840 0.09161118
+save the sru model into model/maestock.model
+850 0.09160669
+save the sru model into model/maestock.model
+860 0.091587044
+save the sru model into model/maestock.model
+870 0.09158947
+save the sru model into model/maestock.model
+880 0.091576196
+save the sru model into model/maestock.model
+890 0.09154564
+save the sru model into model/maestock.model
+900 0.09150018
+save the sru model into model/maestock.model
+910 0.09146744
+save the sru model into model/maestock.model
+920 0.09144572
+save the sru model into model/maestock.model
+930 0.091440134
+save the sru model into model/maestock.model
+940 0.09142224
+save the sru model into model/maestock.model
+950 0.09139633
+save the sru model into model/maestock.model
+960 0.09137047
+save the sru model into model/maestock.model
+970 0.09137064
+save the sru model into model/maestock.model
+980 0.09137656
+save the sru model into model/maestock.model
+990 0.09136921
+save the sru model into model/maestock.model
+Running time:6355.1902286 Seconds
+INFO:tensorflow:Restoring parameters from model/maestock.model

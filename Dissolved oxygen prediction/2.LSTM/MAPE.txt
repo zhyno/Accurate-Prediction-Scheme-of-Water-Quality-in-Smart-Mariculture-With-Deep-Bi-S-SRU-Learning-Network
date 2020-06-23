@@ -1,0 +1,203 @@
+lstm train start:
+0 1.1240044
+save the lstm model into model/mapestock.model
+10 0.098992884
+save the lstm model into model/mapestock.model
+20 0.058902137
+save the lstm model into model/mapestock.model
+30 0.042453684
+save the lstm model into model/mapestock.model
+40 0.032984633
+save the lstm model into model/mapestock.model
+50 0.026772683
+save the lstm model into model/mapestock.model
+60 0.022382252
+save the lstm model into model/mapestock.model
+70 0.019263808
+save the lstm model into model/mapestock.model
+80 0.01736506
+save the lstm model into model/mapestock.model
+90 0.016328968
+save the lstm model into model/mapestock.model
+100 0.01577819
+save the lstm model into model/mapestock.model
+110 0.015476533
+save the lstm model into model/mapestock.model
+120 0.015300339
+save the lstm model into model/mapestock.model
+130 0.015189061
+save the lstm model into model/mapestock.model
+140 0.015112829
+save the lstm model into model/mapestock.model
+150 0.01505625
+save the lstm model into model/mapestock.model
+160 0.0150104575
+save the lstm model into model/mapestock.model
+170 0.014970606
+save the lstm model into model/mapestock.model
+180 0.014933454
+save the lstm model into model/mapestock.model
+190 0.014897353
+save the lstm model into model/mapestock.model
+200 0.01486128
+save the lstm model into model/mapestock.model
+210 0.01482484
+save the lstm model into model/mapestock.model
+220 0.014787925
+save the lstm model into model/mapestock.model
+230 0.014750445
+save the lstm model into model/mapestock.model
+240 0.014712721
+save the lstm model into model/mapestock.model
+250 0.014675244
+save the lstm model into model/mapestock.model
+260 0.014637995
+save the lstm model into model/mapestock.model
+270 0.01460145
+save the lstm model into model/mapestock.model
+280 0.014565743
+save the lstm model into model/mapestock.model
+290 0.014531282
+save the lstm model into model/mapestock.model
+300 0.014498189
+save the lstm model into model/mapestock.model
+310 0.014466722
+save the lstm model into model/mapestock.model
+320 0.01443679
+save the lstm model into model/mapestock.model
+330 0.0144085325
+save the lstm model into model/mapestock.model
+340 0.014382116
+save the lstm model into model/mapestock.model
+350 0.014357468
+save the lstm model into model/mapestock.model
+360 0.014334631
+save the lstm model into model/mapestock.model
+370 0.014313408
+save the lstm model into model/mapestock.model
+380 0.014293943
+save the lstm model into model/mapestock.model
+390 0.014276101
+save the lstm model into model/mapestock.model
+400 0.014259786
+save the lstm model into model/mapestock.model
+410 0.014244982
+save the lstm model into model/mapestock.model
+420 0.014231237
+save the lstm model into model/mapestock.model
+430 0.014218492
+save the lstm model into model/mapestock.model
+440 0.014206672
+save the lstm model into model/mapestock.model
+450 0.01419546
+save the lstm model into model/mapestock.model
+460 0.014184922
+save the lstm model into model/mapestock.model
+470 0.014174914
+save the lstm model into model/mapestock.model
+480 0.0141655225
+save the lstm model into model/mapestock.model
+490 0.014156594
+save the lstm model into model/mapestock.model
+500 0.014148248
+save the lstm model into model/mapestock.model
+510 0.014140476
+save the lstm model into model/mapestock.model
+520 0.0141333435
+save the lstm model into model/mapestock.model
+530 0.014127127
+save the lstm model into model/mapestock.model
+540 0.014121912
+save the lstm model into model/mapestock.model
+550 0.01411821
+save the lstm model into model/mapestock.model
+560 0.014116532
+save the lstm model into model/mapestock.model
+570 0.014117387
+save the lstm model into model/mapestock.model
+580 0.01412147
+save the lstm model into model/mapestock.model
+590 0.01412967
+save the lstm model into model/mapestock.model
+600 0.014143082
+save the lstm model into model/mapestock.model
+610 0.014162272
+save the lstm model into model/mapestock.model
+620 0.014187568
+save the lstm model into model/mapestock.model
+630 0.014218518
+save the lstm model into model/mapestock.model
+640 0.014254106
+save the lstm model into model/mapestock.model
+650 0.01429323
+save the lstm model into model/mapestock.model
+660 0.014334658
+save the lstm model into model/mapestock.model
+670 0.01437693
+save the lstm model into model/mapestock.model
+680 0.014419014
+save the lstm model into model/mapestock.model
+690 0.014459592
+save the lstm model into model/mapestock.model
+700 0.014498041
+save the lstm model into model/mapestock.model
+710 0.014534039
+save the lstm model into model/mapestock.model
+720 0.014567265
+save the lstm model into model/mapestock.model
+730 0.014597435
+save the lstm model into model/mapestock.model
+740 0.014625037
+save the lstm model into model/mapestock.model
+750 0.014650066
+save the lstm model into model/mapestock.model
+760 0.0146726845
+save the lstm model into model/mapestock.model
+770 0.014693127
+save the lstm model into model/mapestock.model
+780 0.014711526
+save the lstm model into model/mapestock.model
+790 0.014728157
+save the lstm model into model/mapestock.model
+800 0.014743033
+save the lstm model into model/mapestock.model
+810 0.014756673
+save the lstm model into model/mapestock.model
+820 0.014769347
+save the lstm model into model/mapestock.model
+830 0.014780318
+save the lstm model into model/mapestock.model
+840 0.01478948
+save the lstm model into model/mapestock.model
+850 0.01479685
+save the lstm model into model/mapestock.model
+860 0.014802762
+save the lstm model into model/mapestock.model
+870 0.01480721
+save the lstm model into model/mapestock.model
+880 0.014810772
+save the lstm model into model/mapestock.model
+890 0.014813115
+save the lstm model into model/mapestock.model
+900 0.014815153
+save the lstm model into model/mapestock.model
+910 0.014816504
+save the lstm model into model/mapestock.model
+920 0.014817604
+save the lstm model into model/mapestock.model
+930 0.014818506
+save the lstm model into model/mapestock.model
+940 0.014819158
+save the lstm model into model/mapestock.model
+950 0.014819793
+save the lstm model into model/mapestock.model
+960 0.01482047
+save the lstm model into model/mapestock.model
+970 0.014821311
+save the lstm model into model/mapestock.model
+980 0.014822557
+save the lstm model into model/mapestock.model
+990 0.014824669
+save the lstm model into model/mapestock.model
+Running time:5899.0588721 Seconds
+INFO:tensorflow:Restoring parameters from model/mapestock.model

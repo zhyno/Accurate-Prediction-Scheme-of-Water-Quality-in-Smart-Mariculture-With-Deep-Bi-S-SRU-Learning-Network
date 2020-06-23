@@ -1,0 +1,64 @@
+rnn train start:
+0 1.8875775
+save the rnn model into model/rmsestock.model
+10 0.14338169
+save the rnn model into model/rmsestock.model
+20 0.073355354
+save the rnn model into model/rmsestock.model
+30 0.049224883
+save the rnn model into model/rmsestock.model
+40 0.039754704
+save the rnn model into model/rmsestock.model
+50 0.03525983
+save the rnn model into model/rmsestock.model
+60 0.032841317
+save the rnn model into model/rmsestock.model
+70 0.031284217
+save the rnn model into model/rmsestock.model
+80 0.030107342
+save the rnn model into model/rmsestock.model
+90 0.029212704
+save the rnn model into model/rmsestock.model
+100 0.02855176
+save the rnn model into model/rmsestock.model
+110 0.028053243
+save the rnn model into model/rmsestock.model
+120 0.027664706
+save the rnn model into model/rmsestock.model
+130 0.027352769
+save the rnn model into model/rmsestock.model
+140 0.02709625
+save the rnn model into model/rmsestock.model
+150 0.026881028
+save the rnn model into model/rmsestock.model
+160 0.026694788
+save the rnn model into model/rmsestock.model
+170 0.026528103
+save the rnn model into model/rmsestock.model
+180 0.026373131
+save the rnn model into model/rmsestock.model
+190 0.026223423
+save the rnn model into model/rmsestock.model
+200 0.026074583
+save the rnn model into model/rmsestock.model
+210 0.025923397
+save the rnn model into model/rmsestock.model
+220 0.02576912
+save the rnn model into model/rmsestock.model
+230 0.025612677
+save the rnn model into model/rmsestock.model
+240 0.025455851
+save the rnn model into model/rmsestock.model
+250 0.02530125
+save the rnn model into model/rmsestock.model
+260 0.025149668
+save the rnn model into model/rmsestock.model
+270 0.025002068
+save the rnn model into model/rmsestock.model
+280 0.024858331
+save the rnn model into model/rmsestock.model
+290 0.024717633
+save the rnn model into model/rmsestock.model
+Running time:1454.450441 Seconds
+0.0
+INFO:tensorflow:Restoring parameters from model/rmsestock.model

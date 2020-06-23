@@ -1,0 +1,63 @@
+sru train start:
+0 1.2688305
+save the sru model into model/mapestock.model
+10 0.3190861
+save the sru model into model/mapestock.model
+20 0.20608489
+save the sru model into model/mapestock.model
+30 0.1201255
+save the sru model into model/mapestock.model
+40 0.11765442
+save the sru model into model/mapestock.model
+50 0.11791987
+save the sru model into model/mapestock.model
+60 0.1170783
+save the sru model into model/mapestock.model
+70 0.11642172
+save the sru model into model/mapestock.model
+80 0.11605418
+save the sru model into model/mapestock.model
+90 0.11555153
+save the sru model into model/mapestock.model
+100 0.1150957
+save the sru model into model/mapestock.model
+110 0.11450375
+save the sru model into model/mapestock.model
+120 0.11384854
+save the sru model into model/mapestock.model
+130 0.11325948
+save the sru model into model/mapestock.model
+140 0.112823986
+save the sru model into model/mapestock.model
+150 0.112373695
+save the sru model into model/mapestock.model
+160 0.11205101
+save the sru model into model/mapestock.model
+170 0.11191989
+save the sru model into model/mapestock.model
+180 0.11179957
+save the sru model into model/mapestock.model
+190 0.11176707
+save the sru model into model/mapestock.model
+200 0.11173762
+save the sru model into model/mapestock.model
+210 0.1117079
+save the sru model into model/mapestock.model
+220 0.11162175
+save the sru model into model/mapestock.model
+230 0.11156282
+save the sru model into model/mapestock.model
+240 0.111602895
+save the sru model into model/mapestock.model
+250 0.111662105
+save the sru model into model/mapestock.model
+260 0.11169707
+save the sru model into model/mapestock.model
+270 0.11175381
+save the sru model into model/mapestock.model
+280 0.11173295
+save the sru model into model/mapestock.model
+290 0.11176064
+save the sru model into model/mapestock.model
+Running time:2141.3586161999992 Seconds
+INFO:tensorflow:Restoring parameters from model/mapestock.model

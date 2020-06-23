@@ -1,0 +1,64 @@
+Reloaded modules: sruM
+isru train start:
+0 0.67201203
+save the isru model into model/mapestock.model
+10 0.11474262
+save the isru model into model/mapestock.model
+20 0.100902185
+save the isru model into model/mapestock.model
+30 0.093031645
+save the isru model into model/mapestock.model
+40 0.08753773
+save the isru model into model/mapestock.model
+50 0.08363319
+save the isru model into model/mapestock.model
+60 0.0806763
+save the isru model into model/mapestock.model
+70 0.07857975
+save the isru model into model/mapestock.model
+80 0.07674002
+save the isru model into model/mapestock.model
+90 0.074885294
+save the isru model into model/mapestock.model
+100 0.073211834
+save the isru model into model/mapestock.model
+110 0.07149533
+save the isru model into model/mapestock.model
+120 0.06973269
+save the isru model into model/mapestock.model
+130 0.06769925
+save the isru model into model/mapestock.model
+140 0.06561004
+save the isru model into model/mapestock.model
+150 0.06384528
+save the isru model into model/mapestock.model
+160 0.062335078
+save the isru model into model/mapestock.model
+170 0.061176784
+save the isru model into model/mapestock.model
+180 0.060040113
+save the isru model into model/mapestock.model
+190 0.05889885
+save the isru model into model/mapestock.model
+200 0.05773981
+save the isru model into model/mapestock.model
+210 0.056616757
+save the isru model into model/mapestock.model
+220 0.055782434
+save the isru model into model/mapestock.model
+230 0.055276297
+save the isru model into model/mapestock.model
+240 0.054765906
+save the isru model into model/mapestock.model
+250 0.05440344
+save the isru model into model/mapestock.model
+260 0.054090817
+save the isru model into model/mapestock.model
+270 0.0538224
+save the isru model into model/mapestock.model
+280 0.05354937
+save the isru model into model/mapestock.model
+290 0.05333172
+save the isru model into model/mapestock.model
+Running time:5383.9926576 Seconds
+INFO:tensorflow:Restoring parameters from model/mapestock.model

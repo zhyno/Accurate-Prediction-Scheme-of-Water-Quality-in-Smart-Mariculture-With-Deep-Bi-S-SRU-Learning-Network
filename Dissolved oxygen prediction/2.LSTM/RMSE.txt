@@ -1,0 +1,203 @@
+lstm train start:
+0 1.2377462
+save the lstm model into model/rmsestock.model
+10 0.09379079
+save the lstm model into model/rmsestock.model
+20 0.056790136
+save the lstm model into model/rmsestock.model
+30 0.040460005
+save the lstm model into model/rmsestock.model
+40 0.03141813
+save the lstm model into model/rmsestock.model
+50 0.025962029
+save the lstm model into model/rmsestock.model
+60 0.022389678
+save the lstm model into model/rmsestock.model
+70 0.019979406
+save the lstm model into model/rmsestock.model
+80 0.018453117
+save the lstm model into model/rmsestock.model
+90 0.017526021
+save the lstm model into model/rmsestock.model
+100 0.016947998
+save the lstm model into model/rmsestock.model
+110 0.016575327
+save the lstm model into model/rmsestock.model
+120 0.01632416
+save the lstm model into model/rmsestock.model
+130 0.016146231
+save the lstm model into model/rmsestock.model
+140 0.016013816
+save the lstm model into model/rmsestock.model
+150 0.015910996
+save the lstm model into model/rmsestock.model
+160 0.015828209
+save the lstm model into model/rmsestock.model
+170 0.015759666
+save the lstm model into model/rmsestock.model
+180 0.01570181
+save the lstm model into model/rmsestock.model
+190 0.01565199
+save the lstm model into model/rmsestock.model
+200 0.015608517
+save the lstm model into model/rmsestock.model
+210 0.0155701395
+save the lstm model into model/rmsestock.model
+220 0.01553598
+save the lstm model into model/rmsestock.model
+230 0.01550499
+save the lstm model into model/rmsestock.model
+240 0.015476764
+save the lstm model into model/rmsestock.model
+250 0.01545054
+save the lstm model into model/rmsestock.model
+260 0.0154261235
+save the lstm model into model/rmsestock.model
+270 0.015403118
+save the lstm model into model/rmsestock.model
+280 0.015381152
+save the lstm model into model/rmsestock.model
+290 0.015360187
+save the lstm model into model/rmsestock.model
+300 0.015339935
+save the lstm model into model/rmsestock.model
+310 0.015320308
+save the lstm model into model/rmsestock.model
+320 0.015301475
+save the lstm model into model/rmsestock.model
+330 0.015283343
+save the lstm model into model/rmsestock.model
+340 0.015265924
+save the lstm model into model/rmsestock.model
+350 0.015249363
+save the lstm model into model/rmsestock.model
+360 0.015233587
+save the lstm model into model/rmsestock.model
+370 0.01521897
+save the lstm model into model/rmsestock.model
+380 0.015205462
+save the lstm model into model/rmsestock.model
+390 0.015193192
+save the lstm model into model/rmsestock.model
+400 0.015181971
+save the lstm model into model/rmsestock.model
+410 0.01517204
+save the lstm model into model/rmsestock.model
+420 0.015163204
+save the lstm model into model/rmsestock.model
+430 0.015155446
+save the lstm model into model/rmsestock.model
+440 0.015148568
+save the lstm model into model/rmsestock.model
+450 0.015142363
+save the lstm model into model/rmsestock.model
+460 0.015136703
+save the lstm model into model/rmsestock.model
+470 0.015131469
+save the lstm model into model/rmsestock.model
+480 0.015126444
+save the lstm model into model/rmsestock.model
+490 0.015121576
+save the lstm model into model/rmsestock.model
+500 0.015116755
+save the lstm model into model/rmsestock.model
+510 0.015111764
+save the lstm model into model/rmsestock.model
+520 0.015106716
+save the lstm model into model/rmsestock.model
+530 0.015101554
+save the lstm model into model/rmsestock.model
+540 0.01509606
+save the lstm model into model/rmsestock.model
+550 0.015090251
+save the lstm model into model/rmsestock.model
+560 0.015084024
+save the lstm model into model/rmsestock.model
+570 0.01507715
+save the lstm model into model/rmsestock.model
+580 0.0150697725
+save the lstm model into model/rmsestock.model
+590 0.015061579
+save the lstm model into model/rmsestock.model
+600 0.015052468
+save the lstm model into model/rmsestock.model
+610 0.015042583
+save the lstm model into model/rmsestock.model
+620 0.015031732
+save the lstm model into model/rmsestock.model
+630 0.015019935
+save the lstm model into model/rmsestock.model
+640 0.015007289
+save the lstm model into model/rmsestock.model
+650 0.014993947
+save the lstm model into model/rmsestock.model
+660 0.01497992
+save the lstm model into model/rmsestock.model
+670 0.014965282
+save the lstm model into model/rmsestock.model
+680 0.014949978
+save the lstm model into model/rmsestock.model
+690 0.014934234
+save the lstm model into model/rmsestock.model
+700 0.014918019
+save the lstm model into model/rmsestock.model
+710 0.014901334
+save the lstm model into model/rmsestock.model
+720 0.014884098
+save the lstm model into model/rmsestock.model
+730 0.0148664
+save the lstm model into model/rmsestock.model
+740 0.014848066
+save the lstm model into model/rmsestock.model
+750 0.01482933
+save the lstm model into model/rmsestock.model
+760 0.014809849
+save the lstm model into model/rmsestock.model
+770 0.014789831
+save the lstm model into model/rmsestock.model
+780 0.014769165
+save the lstm model into model/rmsestock.model
+790 0.014747769
+save the lstm model into model/rmsestock.model
+800 0.014725536
+save the lstm model into model/rmsestock.model
+810 0.014702567
+save the lstm model into model/rmsestock.model
+820 0.014678643
+save the lstm model into model/rmsestock.model
+830 0.014653793
+save the lstm model into model/rmsestock.model
+840 0.014627763
+save the lstm model into model/rmsestock.model
+850 0.014600657
+save the lstm model into model/rmsestock.model
+860 0.014572247
+save the lstm model into model/rmsestock.model
+870 0.014542629
+save the lstm model into model/rmsestock.model
+880 0.014511608
+save the lstm model into model/rmsestock.model
+890 0.014479125
+save the lstm model into model/rmsestock.model
+900 0.014444976
+save the lstm model into model/rmsestock.model
+910 0.014409329
+save the lstm model into model/rmsestock.model
+920 0.014372005
+save the lstm model into model/rmsestock.model
+930 0.014332969
+save the lstm model into model/rmsestock.model
+940 0.014292166
+save the lstm model into model/rmsestock.model
+950 0.014249566
+save the lstm model into model/rmsestock.model
+960 0.01420508
+save the lstm model into model/rmsestock.model
+970 0.01415895
+save the lstm model into model/rmsestock.model
+980 0.014111136
+save the lstm model into model/rmsestock.model
+990 0.014061834
+save the lstm model into model/rmsestock.model
+Running time:6471.032353999999 Seconds
+INFO:tensorflow:Restoring parameters from model/rmsestock.model

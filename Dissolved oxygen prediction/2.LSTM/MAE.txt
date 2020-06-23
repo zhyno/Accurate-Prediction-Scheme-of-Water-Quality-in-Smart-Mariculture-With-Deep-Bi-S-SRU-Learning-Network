@@ -1,0 +1,203 @@
+lstm train start:
+0 1.0471649
+save the lstm model into model/maestock.model
+10 0.18904752
+save the lstm model into model/maestock.model
+20 0.17072713
+save the lstm model into model/maestock.model
+30 0.15656307
+save the lstm model into model/maestock.model
+40 0.14049314
+save the lstm model into model/maestock.model
+50 0.13097443
+save the lstm model into model/maestock.model
+60 0.12166926
+save the lstm model into model/maestock.model
+70 0.114593975
+save the lstm model into model/maestock.model
+80 0.10887767
+save the lstm model into model/maestock.model
+90 0.10509976
+save the lstm model into model/maestock.model
+100 0.10273336
+save the lstm model into model/maestock.model
+110 0.10112825
+save the lstm model into model/maestock.model
+120 0.09979186
+save the lstm model into model/maestock.model
+130 0.09847062
+save the lstm model into model/maestock.model
+140 0.0974607
+save the lstm model into model/maestock.model
+150 0.096628785
+save the lstm model into model/maestock.model
+160 0.09603672
+save the lstm model into model/maestock.model
+170 0.09538779
+save the lstm model into model/maestock.model
+180 0.09473643
+save the lstm model into model/maestock.model
+190 0.09397297
+save the lstm model into model/maestock.model
+200 0.09330409
+save the lstm model into model/maestock.model
+210 0.09273284
+save the lstm model into model/maestock.model
+220 0.09214255
+save the lstm model into model/maestock.model
+230 0.09171174
+save the lstm model into model/maestock.model
+240 0.09131169
+save the lstm model into model/maestock.model
+250 0.09084228
+save the lstm model into model/maestock.model
+260 0.09035685
+save the lstm model into model/maestock.model
+270 0.089940265
+save the lstm model into model/maestock.model
+280 0.0896145
+save the lstm model into model/maestock.model
+290 0.089211755
+save the lstm model into model/maestock.model
+300 0.08890807
+save the lstm model into model/maestock.model
+310 0.0886489
+save the lstm model into model/maestock.model
+320 0.088323906
+save the lstm model into model/maestock.model
+330 0.088042736
+save the lstm model into model/maestock.model
+340 0.08782847
+save the lstm model into model/maestock.model
+350 0.08759885
+save the lstm model into model/maestock.model
+360 0.087286666
+save the lstm model into model/maestock.model
+370 0.08693422
+save the lstm model into model/maestock.model
+380 0.08665256
+save the lstm model into model/maestock.model
+390 0.086319044
+save the lstm model into model/maestock.model
+400 0.086020984
+save the lstm model into model/maestock.model
+410 0.08578739
+save the lstm model into model/maestock.model
+420 0.08549613
+save the lstm model into model/maestock.model
+430 0.0852218
+save the lstm model into model/maestock.model
+440 0.08493448
+save the lstm model into model/maestock.model
+450 0.08471358
+save the lstm model into model/maestock.model
+460 0.08458574
+save the lstm model into model/maestock.model
+470 0.084402196
+save the lstm model into model/maestock.model
+480 0.08421021
+save the lstm model into model/maestock.model
+490 0.084050894
+save the lstm model into model/maestock.model
+500 0.083967514
+save the lstm model into model/maestock.model
+510 0.083795995
+save the lstm model into model/maestock.model
+520 0.08376899
+save the lstm model into model/maestock.model
+530 0.0837929
+save the lstm model into model/maestock.model
+540 0.084016174
+save the lstm model into model/maestock.model
+550 0.08427682
+save the lstm model into model/maestock.model
+560 0.084572874
+save the lstm model into model/maestock.model
+570 0.08483934
+save the lstm model into model/maestock.model
+580 0.0852833
+save the lstm model into model/maestock.model
+590 0.08606058
+save the lstm model into model/maestock.model
+600 0.08692297
+save the lstm model into model/maestock.model
+610 0.087698326
+save the lstm model into model/maestock.model
+620 0.08838612
+save the lstm model into model/maestock.model
+630 0.08901025
+save the lstm model into model/maestock.model
+640 0.08933971
+save the lstm model into model/maestock.model
+650 0.08949223
+save the lstm model into model/maestock.model
+660 0.08949417
+save the lstm model into model/maestock.model
+670 0.089491315
+save the lstm model into model/maestock.model
+680 0.0895356
+save the lstm model into model/maestock.model
+690 0.08945291
+save the lstm model into model/maestock.model
+700 0.0893854
+save the lstm model into model/maestock.model
+710 0.08919185
+save the lstm model into model/maestock.model
+720 0.08902624
+save the lstm model into model/maestock.model
+730 0.088911235
+save the lstm model into model/maestock.model
+740 0.08877772
+save the lstm model into model/maestock.model
+750 0.0885779
+save the lstm model into model/maestock.model
+760 0.0883661
+save the lstm model into model/maestock.model
+770 0.08820451
+save the lstm model into model/maestock.model
+780 0.0880432
+save the lstm model into model/maestock.model
+790 0.087869935
+save the lstm model into model/maestock.model
+800 0.087686434
+save the lstm model into model/maestock.model
+810 0.087503254
+save the lstm model into model/maestock.model
+820 0.08729187
+save the lstm model into model/maestock.model
+830 0.08705451
+save the lstm model into model/maestock.model
+840 0.086828776
+save the lstm model into model/maestock.model
+850 0.08663159
+save the lstm model into model/maestock.model
+860 0.08641544
+save the lstm model into model/maestock.model
+870 0.08618133
+save the lstm model into model/maestock.model
+880 0.085974865
+save the lstm model into model/maestock.model
+890 0.085836075
+save the lstm model into model/maestock.model
+900 0.08566535
+save the lstm model into model/maestock.model
+910 0.085521914
+save the lstm model into model/maestock.model
+920 0.08547842
+save the lstm model into model/maestock.model
+930 0.08535415
+save the lstm model into model/maestock.model
+940 0.08524859
+save the lstm model into model/maestock.model
+950 0.08518665
+save the lstm model into model/maestock.model
+960 0.08506296
+save the lstm model into model/maestock.model
+970 0.08501615
+save the lstm model into model/maestock.model
+980 0.08491713
+save the lstm model into model/maestock.model
+990 0.084838934
+save the lstm model into model/maestock.model
+Running time:5978.1607156 Seconds
+INFO:tensorflow:Restoring parameters from model/maestock.model

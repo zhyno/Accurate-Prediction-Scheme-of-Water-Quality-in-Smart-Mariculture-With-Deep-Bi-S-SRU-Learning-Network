@@ -1,0 +1,64 @@
+Reloaded modules: Improved_sruM
+isru train start:
+0 1.044351
+save the isru model into model/rmsestock.model
+10 0.03556647
+save the isru model into model/rmsestock.model
+20 0.018890882
+save the isru model into model/rmsestock.model
+30 0.015608344
+save the isru model into model/rmsestock.model
+40 0.013948194
+save the isru model into model/rmsestock.model
+50 0.012500531
+save the isru model into model/rmsestock.model
+60 0.0114877075
+save the isru model into model/rmsestock.model
+70 0.010682678
+save the isru model into model/rmsestock.model
+80 0.009949174
+save the isru model into model/rmsestock.model
+90 0.0092536565
+save the isru model into model/rmsestock.model
+100 0.008585941
+save the isru model into model/rmsestock.model
+110 0.007955981
+save the isru model into model/rmsestock.model
+120 0.007396219
+save the isru model into model/rmsestock.model
+130 0.0069047986
+save the isru model into model/rmsestock.model
+140 0.0064902236
+save the isru model into model/rmsestock.model
+150 0.0062054773
+save the isru model into model/rmsestock.model
+160 0.006019544
+save the isru model into model/rmsestock.model
+170 0.0058936207
+save the isru model into model/rmsestock.model
+180 0.005807394
+save the isru model into model/rmsestock.model
+190 0.0057493807
+save the isru model into model/rmsestock.model
+200 0.005710658
+save the isru model into model/rmsestock.model
+210 0.0056843255
+save the isru model into model/rmsestock.model
+220 0.0056656483
+save the isru model into model/rmsestock.model
+230 0.005651836
+save the isru model into model/rmsestock.model
+240 0.0056411456
+save the isru model into model/rmsestock.model
+250 0.005632461
+save the isru model into model/rmsestock.model
+260 0.0056248973
+save the isru model into model/rmsestock.model
+270 0.005617891
+save the isru model into model/rmsestock.model
+280 0.005611027
+save the isru model into model/rmsestock.model
+290 0.0056039514
+save the isru model into model/rmsestock.model
+Running time:5727.506863600003 Seconds
+INFO:tensorflow:Restoring parameters from model/rmsestock.model

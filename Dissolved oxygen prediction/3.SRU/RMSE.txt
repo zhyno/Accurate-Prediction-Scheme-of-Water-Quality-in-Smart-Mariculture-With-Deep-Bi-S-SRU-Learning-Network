@@ -1,0 +1,203 @@
+sru train start:
+0 1.591071
+save the sru model into model/rmsestock.model
+10 0.09401421
+save the sru model into model/rmsestock.model
+20 0.044916574
+save the sru model into model/rmsestock.model
+30 0.03286945
+save the sru model into model/rmsestock.model
+40 0.028390056
+save the sru model into model/rmsestock.model
+50 0.026230598
+save the sru model into model/rmsestock.model
+60 0.025013058
+save the sru model into model/rmsestock.model
+70 0.024261668
+save the sru model into model/rmsestock.model
+80 0.02378174
+save the sru model into model/rmsestock.model
+90 0.023471555
+save the sru model into model/rmsestock.model
+100 0.023257373
+save the sru model into model/rmsestock.model
+110 0.023093345
+save the sru model into model/rmsestock.model
+120 0.022956703
+save the sru model into model/rmsestock.model
+130 0.022835933
+save the sru model into model/rmsestock.model
+140 0.022725321
+save the sru model into model/rmsestock.model
+150 0.022620587
+save the sru model into model/rmsestock.model
+160 0.022518776
+save the sru model into model/rmsestock.model
+170 0.022418555
+save the sru model into model/rmsestock.model
+180 0.022318566
+save the sru model into model/rmsestock.model
+190 0.022218714
+save the sru model into model/rmsestock.model
+200 0.02211885
+save the sru model into model/rmsestock.model
+210 0.022018231
+save the sru model into model/rmsestock.model
+220 0.021916624
+save the sru model into model/rmsestock.model
+230 0.021814046
+save the sru model into model/rmsestock.model
+240 0.021710612
+save the sru model into model/rmsestock.model
+250 0.02160646
+save the sru model into model/rmsestock.model
+260 0.02150165
+save the sru model into model/rmsestock.model
+270 0.02139539
+save the sru model into model/rmsestock.model
+280 0.021285657
+save the sru model into model/rmsestock.model
+290 0.021168426
+save the sru model into model/rmsestock.model
+300 0.021039017
+save the sru model into model/rmsestock.model
+310 0.02089412
+save the sru model into model/rmsestock.model
+320 0.020734346
+save the sru model into model/rmsestock.model
+330 0.020565348
+save the sru model into model/rmsestock.model
+340 0.020395545
+save the sru model into model/rmsestock.model
+350 0.020232921
+save the sru model into model/rmsestock.model
+360 0.020082632
+save the sru model into model/rmsestock.model
+370 0.019946285
+save the sru model into model/rmsestock.model
+380 0.019823743
+save the sru model into model/rmsestock.model
+390 0.019712966
+save the sru model into model/rmsestock.model
+400 0.019611228
+save the sru model into model/rmsestock.model
+410 0.019515542
+save the sru model into model/rmsestock.model
+420 0.019423392
+save the sru model into model/rmsestock.model
+430 0.019332854
+save the sru model into model/rmsestock.model
+440 0.019243015
+save the sru model into model/rmsestock.model
+450 0.019153675
+save the sru model into model/rmsestock.model
+460 0.019064406
+save the sru model into model/rmsestock.model
+470 0.018974613
+save the sru model into model/rmsestock.model
+480 0.018882545
+save the sru model into model/rmsestock.model
+490 0.018788323
+save the sru model into model/rmsestock.model
+500 0.01869276
+save the sru model into model/rmsestock.model
+510 0.018598152
+save the sru model into model/rmsestock.model
+520 0.018506097
+save the sru model into model/rmsestock.model
+530 0.018417643
+save the sru model into model/rmsestock.model
+540 0.018333305
+save the sru model into model/rmsestock.model
+550 0.018253159
+save the sru model into model/rmsestock.model
+560 0.018177181
+save the sru model into model/rmsestock.model
+570 0.018104006
+save the sru model into model/rmsestock.model
+580 0.018033072
+save the sru model into model/rmsestock.model
+590 0.017963365
+save the sru model into model/rmsestock.model
+600 0.017893972
+save the sru model into model/rmsestock.model
+610 0.017823942
+save the sru model into model/rmsestock.model
+620 0.017752616
+save the sru model into model/rmsestock.model
+630 0.017679155
+save the sru model into model/rmsestock.model
+640 0.017603394
+save the sru model into model/rmsestock.model
+650 0.017524987
+save the sru model into model/rmsestock.model
+660 0.017443497
+save the sru model into model/rmsestock.model
+670 0.017359534
+save the sru model into model/rmsestock.model
+680 0.017273014
+save the sru model into model/rmsestock.model
+690 0.017184881
+save the sru model into model/rmsestock.model
+700 0.017095517
+save the sru model into model/rmsestock.model
+710 0.01700628
+save the sru model into model/rmsestock.model
+720 0.016917968
+save the sru model into model/rmsestock.model
+730 0.01683181
+save the sru model into model/rmsestock.model
+740 0.01674892
+save the sru model into model/rmsestock.model
+750 0.01667015
+save the sru model into model/rmsestock.model
+760 0.016596636
+save the sru model into model/rmsestock.model
+770 0.01652855
+save the sru model into model/rmsestock.model
+780 0.016466958
+save the sru model into model/rmsestock.model
+790 0.016411692
+save the sru model into model/rmsestock.model
+800 0.016362857
+save the sru model into model/rmsestock.model
+810 0.016320666
+save the sru model into model/rmsestock.model
+820 0.016284823
+save the sru model into model/rmsestock.model
+830 0.016255155
+save the sru model into model/rmsestock.model
+840 0.0162312
+save the sru model into model/rmsestock.model
+850 0.016212588
+save the sru model into model/rmsestock.model
+860 0.016198928
+save the sru model into model/rmsestock.model
+870 0.01618946
+save the sru model into model/rmsestock.model
+880 0.016183726
+save the sru model into model/rmsestock.model
+890 0.016180586
+save the sru model into model/rmsestock.model
+900 0.016179493
+save the sru model into model/rmsestock.model
+910 0.016179306
+save the sru model into model/rmsestock.model
+920 0.016179534
+save the sru model into model/rmsestock.model
+930 0.016180012
+save the sru model into model/rmsestock.model
+940 0.016180634
+save the sru model into model/rmsestock.model
+950 0.016181072
+save the sru model into model/rmsestock.model
+960 0.016182082
+save the sru model into model/rmsestock.model
+970 0.01618341
+save the sru model into model/rmsestock.model
+980 0.016184906
+save the sru model into model/rmsestock.model
+990 0.016186751
+save the sru model into model/rmsestock.model
+Running time:6509.7593750000015 Seconds
+INFO:tensorflow:Restoring parameters from model/rmsestock.model

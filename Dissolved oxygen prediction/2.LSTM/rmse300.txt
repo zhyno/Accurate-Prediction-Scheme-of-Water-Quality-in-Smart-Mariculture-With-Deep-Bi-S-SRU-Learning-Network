@@ -1,0 +1,63 @@
+lstm train start:
+0 1.5305666
+save the lstm model into model/rmsestock.model
+10 0.09728915
+save the lstm model into model/rmsestock.model
+20 0.057734318
+save the lstm model into model/rmsestock.model
+30 0.040066052
+save the lstm model into model/rmsestock.model
+40 0.030961031
+save the lstm model into model/rmsestock.model
+50 0.025450842
+save the lstm model into model/rmsestock.model
+60 0.022743521
+save the lstm model into model/rmsestock.model
+70 0.021294931
+save the lstm model into model/rmsestock.model
+80 0.020472607
+save the lstm model into model/rmsestock.model
+90 0.019965176
+save the lstm model into model/rmsestock.model
+100 0.0196159
+save the lstm model into model/rmsestock.model
+110 0.019352341
+save the lstm model into model/rmsestock.model
+120 0.019105645
+save the lstm model into model/rmsestock.model
+130 0.018852632
+save the lstm model into model/rmsestock.model
+140 0.018626627
+save the lstm model into model/rmsestock.model
+150 0.018429736
+save the lstm model into model/rmsestock.model
+160 0.018256944
+save the lstm model into model/rmsestock.model
+170 0.018103128
+save the lstm model into model/rmsestock.model
+180 0.017966043
+save the lstm model into model/rmsestock.model
+190 0.017843608
+save the lstm model into model/rmsestock.model
+200 0.017734218
+save the lstm model into model/rmsestock.model
+210 0.01763737
+save the lstm model into model/rmsestock.model
+220 0.017552119
+save the lstm model into model/rmsestock.model
+230 0.0174782
+save the lstm model into model/rmsestock.model
+240 0.017414348
+save the lstm model into model/rmsestock.model
+250 0.017359369
+save the lstm model into model/rmsestock.model
+260 0.017311916
+save the lstm model into model/rmsestock.model
+270 0.017270308
+save the lstm model into model/rmsestock.model
+280 0.01723333
+save the lstm model into model/rmsestock.model
+290 0.01719946
+save the lstm model into model/rmsestock.model
+Running time:1960.4184995999985 Seconds
+INFO:tensorflow:Restoring parameters from model/rmsestock.model

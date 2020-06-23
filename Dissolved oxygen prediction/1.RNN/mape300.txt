@@ -1,0 +1,64 @@
+rnn train start:
+0 0.9557363
+save the rnn model into model/mapestock.model
+10 0.27699205
+save the rnn model into model/mapestock.model
+20 0.25930405
+save the rnn model into model/mapestock.model
+30 0.245868
+save the rnn model into model/mapestock.model
+40 0.23698522
+save the rnn model into model/mapestock.model
+50 0.22821991
+save the rnn model into model/mapestock.model
+60 0.22055554
+save the rnn model into model/mapestock.model
+70 0.21153408
+save the rnn model into model/mapestock.model
+80 0.20280184
+save the rnn model into model/mapestock.model
+90 0.19376194
+save the rnn model into model/mapestock.model
+100 0.18349017
+save the rnn model into model/mapestock.model
+110 0.1741402
+save the rnn model into model/mapestock.model
+120 0.16614181
+save the rnn model into model/mapestock.model
+130 0.16011891
+save the rnn model into model/mapestock.model
+140 0.15578374
+save the rnn model into model/mapestock.model
+150 0.152965
+save the rnn model into model/mapestock.model
+160 0.15124673
+save the rnn model into model/mapestock.model
+170 0.1499645
+save the rnn model into model/mapestock.model
+180 0.14886211
+save the rnn model into model/mapestock.model
+190 0.14809749
+save the rnn model into model/mapestock.model
+200 0.14744616
+save the rnn model into model/mapestock.model
+210 0.1469083
+save the rnn model into model/mapestock.model
+220 0.14627215
+save the rnn model into model/mapestock.model
+230 0.14573683
+save the rnn model into model/mapestock.model
+240 0.1451693
+save the rnn model into model/mapestock.model
+250 0.14462568
+save the rnn model into model/mapestock.model
+260 0.14393242
+save the rnn model into model/mapestock.model
+270 0.14324228
+save the rnn model into model/mapestock.model
+280 0.14262787
+save the rnn model into model/mapestock.model
+290 0.14196862
+save the rnn model into model/mapestock.model
+Running time:3908.2448477 Seconds
+0.0
+INFO:tensorflow:Restoring parameters from model/mapestock.model

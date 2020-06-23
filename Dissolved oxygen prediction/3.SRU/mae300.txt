@@ -1,0 +1,64 @@
+Reloaded modules: sruM
+sru train start:
+0 1.1943408
+save the sru model into model/maestock.model
+10 0.19484966
+save the sru model into model/maestock.model
+20 0.17040865
+save the sru model into model/maestock.model
+30 0.16414379
+save the sru model into model/maestock.model
+40 0.16127501
+save the sru model into model/maestock.model
+50 0.15930909
+save the sru model into model/maestock.model
+60 0.15814821
+save the sru model into model/maestock.model
+70 0.15711553
+save the sru model into model/maestock.model
+80 0.15621597
+save the sru model into model/maestock.model
+90 0.15505037
+save the sru model into model/maestock.model
+100 0.15385303
+save the sru model into model/maestock.model
+110 0.15254173
+save the sru model into model/maestock.model
+120 0.15139323
+save the sru model into model/maestock.model
+130 0.1502485
+save the sru model into model/maestock.model
+140 0.14921579
+save the sru model into model/maestock.model
+150 0.14821447
+save the sru model into model/maestock.model
+160 0.14690569
+save the sru model into model/maestock.model
+170 0.14594488
+save the sru model into model/maestock.model
+180 0.14503248
+save the sru model into model/maestock.model
+190 0.14422937
+save the sru model into model/maestock.model
+200 0.14336118
+save the sru model into model/maestock.model
+210 0.1424463
+save the sru model into model/maestock.model
+220 0.14143983
+save the sru model into model/maestock.model
+230 0.14042678
+save the sru model into model/maestock.model
+240 0.13937218
+save the sru model into model/maestock.model
+250 0.13822012
+save the sru model into model/maestock.model
+260 0.13696267
+save the sru model into model/maestock.model
+270 0.13575785
+save the sru model into model/maestock.model
+280 0.13438177
+save the sru model into model/maestock.model
+290 0.13307436
+save the sru model into model/maestock.model
+Running time:2127.057749399999 Seconds
+INFO:tensorflow:Restoring parameters from model/maestock.model

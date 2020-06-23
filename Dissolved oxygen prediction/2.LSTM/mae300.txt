@@ -1,0 +1,64 @@
+Network training/Dissolved oxygen prediction/2.LSTM')
+lstm train start:
+0 0.6587354
+save the lstm model into model/maestock.model
+10 0.2009853
+save the lstm model into model/maestock.model
+20 0.17840424
+save the lstm model into model/maestock.model
+30 0.16923721
+save the lstm model into model/maestock.model
+40 0.16333857
+save the lstm model into model/maestock.model
+50 0.15829186
+save the lstm model into model/maestock.model
+60 0.13845386
+save the lstm model into model/maestock.model
+70 0.12519468
+save the lstm model into model/maestock.model
+80 0.11861715
+save the lstm model into model/maestock.model
+90 0.114383124
+save the lstm model into model/maestock.model
+100 0.11103054
+save the lstm model into model/maestock.model
+110 0.10816939
+save the lstm model into model/maestock.model
+120 0.10571764
+save the lstm model into model/maestock.model
+130 0.103553616
+save the lstm model into model/maestock.model
+140 0.101860955
+save the lstm model into model/maestock.model
+150 0.10027992
+save the lstm model into model/maestock.model
+160 0.09908878
+save the lstm model into model/maestock.model
+170 0.09783509
+save the lstm model into model/maestock.model
+180 0.09667961
+save the lstm model into model/maestock.model
+190 0.09566423
+save the lstm model into model/maestock.model
+200 0.094839774
+save the lstm model into model/maestock.model
+210 0.09392141
+save the lstm model into model/maestock.model
+220 0.0928484
+save the lstm model into model/maestock.model
+230 0.09177799
+save the lstm model into model/maestock.model
+240 0.09073463
+save the lstm model into model/maestock.model
+250 0.089546844
+save the lstm model into model/maestock.model
+260 0.08839962
+save the lstm model into model/maestock.model
+270 0.08745069
+save the lstm model into model/maestock.model
+280 0.08673536
+save the lstm model into model/maestock.model
+290 0.0860184
+save the lstm model into model/maestock.model
+Running time:2011.3976446000015 Seconds
+INFO:tensorflow:Restoring parameters from model/maestock.model

@@ -1,0 +1,203 @@
+isru train start:
+0 0.5986297
+save the isru model into model/rmsestock.model
+10 0.032988966
+save the isru model into model/rmsestock.model
+20 0.015445876
+save the isru model into model/rmsestock.model
+30 0.011721478
+save the isru model into model/rmsestock.model
+40 0.010335183
+save the isru model into model/rmsestock.model
+50 0.009367562
+save the isru model into model/rmsestock.model
+60 0.008728908
+save the isru model into model/rmsestock.model
+70 0.008236459
+save the isru model into model/rmsestock.model
+80 0.007825797
+save the isru model into model/rmsestock.model
+90 0.007479832
+save the isru model into model/rmsestock.model
+100 0.00718851
+save the isru model into model/rmsestock.model
+110 0.006950732
+save the isru model into model/rmsestock.model
+120 0.006753454
+save the isru model into model/rmsestock.model
+130 0.006584426
+save the isru model into model/rmsestock.model
+140 0.0064361463
+save the isru model into model/rmsestock.model
+150 0.006303428
+save the isru model into model/rmsestock.model
+160 0.006183074
+save the isru model into model/rmsestock.model
+170 0.0060734875
+save the isru model into model/rmsestock.model
+180 0.005974411
+save the isru model into model/rmsestock.model
+190 0.005886008
+save the isru model into model/rmsestock.model
+200 0.005808425
+save the isru model into model/rmsestock.model
+210 0.005741413
+save the isru model into model/rmsestock.model
+220 0.005684433
+save the isru model into model/rmsestock.model
+230 0.005636558
+save the isru model into model/rmsestock.model
+240 0.005596869
+save the isru model into model/rmsestock.model
+250 0.0055641644
+save the isru model into model/rmsestock.model
+260 0.0055373292
+save the isru model into model/rmsestock.model
+270 0.0055154916
+save the isru model into model/rmsestock.model
+280 0.005497693
+save the isru model into model/rmsestock.model
+290 0.0054832054
+save the isru model into model/rmsestock.model
+300 0.005471363
+save the isru model into model/rmsestock.model
+310 0.0054615964
+save the isru model into model/rmsestock.model
+320 0.005453355
+save the isru model into model/rmsestock.model
+330 0.005446254
+save the isru model into model/rmsestock.model
+340 0.005440028
+save the isru model into model/rmsestock.model
+350 0.0054343087
+save the isru model into model/rmsestock.model
+360 0.005429031
+save the isru model into model/rmsestock.model
+370 0.005424011
+save the isru model into model/rmsestock.model
+380 0.0054191607
+save the isru model into model/rmsestock.model
+390 0.0054143993
+save the isru model into model/rmsestock.model
+400 0.0054096854
+save the isru model into model/rmsestock.model
+410 0.005404971
+save the isru model into model/rmsestock.model
+420 0.0054002455
+save the isru model into model/rmsestock.model
+430 0.0053954553
+save the isru model into model/rmsestock.model
+440 0.005390551
+save the isru model into model/rmsestock.model
+450 0.005385671
+save the isru model into model/rmsestock.model
+460 0.0053806463
+save the isru model into model/rmsestock.model
+470 0.0053755306
+save the isru model into model/rmsestock.model
+480 0.005370335
+save the isru model into model/rmsestock.model
+490 0.00536505
+save the isru model into model/rmsestock.model
+500 0.005359746
+save the isru model into model/rmsestock.model
+510 0.005354528
+save the isru model into model/rmsestock.model
+520 0.005349465
+save the isru model into model/rmsestock.model
+530 0.005344587
+save the isru model into model/rmsestock.model
+540 0.0053399913
+save the isru model into model/rmsestock.model
+550 0.005335683
+save the isru model into model/rmsestock.model
+560 0.0053317426
+save the isru model into model/rmsestock.model
+570 0.005328144
+save the isru model into model/rmsestock.model
+580 0.00532499
+save the isru model into model/rmsestock.model
+590 0.0053222068
+save the isru model into model/rmsestock.model
+600 0.0053198435
+save the isru model into model/rmsestock.model
+610 0.005317898
+save the isru model into model/rmsestock.model
+620 0.005316381
+save the isru model into model/rmsestock.model
+630 0.0053152726
+save the isru model into model/rmsestock.model
+640 0.005314659
+save the isru model into model/rmsestock.model
+650 0.0053144475
+save the isru model into model/rmsestock.model
+660 0.0053146007
+save the isru model into model/rmsestock.model
+670 0.005315084
+save the isru model into model/rmsestock.model
+680 0.005315709
+save the isru model into model/rmsestock.model
+690 0.0053163455
+save the isru model into model/rmsestock.model
+700 0.0053169117
+save the isru model into model/rmsestock.model
+710 0.0053171786
+save the isru model into model/rmsestock.model
+720 0.0053171446
+save the isru model into model/rmsestock.model
+730 0.00531665
+save the isru model into model/rmsestock.model
+740 0.00531563
+save the isru model into model/rmsestock.model
+750 0.0053141294
+save the isru model into model/rmsestock.model
+760 0.005312047
+save the isru model into model/rmsestock.model
+770 0.005309325
+save the isru model into model/rmsestock.model
+780 0.00530611
+save the isru model into model/rmsestock.model
+790 0.005302306
+save the isru model into model/rmsestock.model
+800 0.005297962
+save the isru model into model/rmsestock.model
+810 0.0052931802
+save the isru model into model/rmsestock.model
+820 0.0052878596
+save the isru model into model/rmsestock.model
+830 0.0052820696
+save the isru model into model/rmsestock.model
+840 0.005275922
+save the isru model into model/rmsestock.model
+850 0.005269327
+save the isru model into model/rmsestock.model
+860 0.0052623227
+save the isru model into model/rmsestock.model
+870 0.0052549457
+save the isru model into model/rmsestock.model
+880 0.005247155
+save the isru model into model/rmsestock.model
+890 0.0052389707
+save the isru model into model/rmsestock.model
+900 0.0052303798
+save the isru model into model/rmsestock.model
+910 0.0052213576
+save the isru model into model/rmsestock.model
+920 0.0052119317
+save the isru model into model/rmsestock.model
+930 0.005202146
+save the isru model into model/rmsestock.model
+940 0.0051918873
+save the isru model into model/rmsestock.model
+950 0.005181246
+save the isru model into model/rmsestock.model
+960 0.005170165
+save the isru model into model/rmsestock.model
+970 0.005158681
+save the isru model into model/rmsestock.model
+980 0.0051467638
+save the isru model into model/rmsestock.model
+990 0.0051345173
+save the isru model into model/rmsestock.model
+Running time:21203.141505900003 Seconds
+INFO:tensorflow:Restoring parameters from model/rmsestock.model
